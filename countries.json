@@ -64,15 +64,9 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "7"
-      ]
+      "suffixes": ["7"]
     },
-    "capital": [
-      "Pretoria",
-      "Bloemfontein",
-      "Cape Town"
-    ],
+    "capital": ["Pretoria", "Bloemfontein", "Cape Town"],
     "region": "Africa",
     "languages": {
       "afr": "Afrikaans",
@@ -88,9 +82,7 @@
       "zul": "Zulu"
     },
     "population": 63100945,
-    "timezones": [
-      "UTC+02:00"
-    ]
+    "timezones": ["UTC+02:00"]
   },
   {
     "flags": {
@@ -117,21 +109,15 @@
     },
     "idd": {
       "root": "+4",
-      "suffixes": [
-        "0"
-      ]
+      "suffixes": ["0"]
     },
-    "capital": [
-      "Bucharest"
-    ],
+    "capital": ["Bucharest"],
     "region": "Europe",
     "languages": {
       "ron": "Romanian"
     },
     "population": 19036031,
-    "timezones": [
-      "UTC+02:00"
-    ]
+    "timezones": ["UTC+02:00"]
   },
   {
     "flags": {
@@ -162,22 +148,16 @@
     },
     "idd": {
       "root": "+9",
-      "suffixes": [
-        "72"
-      ]
+      "suffixes": ["72"]
     },
-    "capital": [
-      "Jerusalem"
-    ],
+    "capital": ["Jerusalem"],
     "region": "Asia",
     "languages": {
       "ara": "Arabic",
       "heb": "Hebrew"
     },
     "population": 10134800,
-    "timezones": [
-      "UTC+02:00"
-    ]
+    "timezones": ["UTC+02:00"]
   },
   {
     "flags": {
@@ -204,21 +184,15 @@
     },
     "idd": {
       "root": "+9",
-      "suffixes": [
-        "5"
-      ]
+      "suffixes": ["5"]
     },
-    "capital": [
-      "Naypyidaw"
-    ],
+    "capital": ["Naypyidaw"],
     "region": "Asia",
     "languages": {
       "mya": "Burmese"
     },
     "population": 51316756,
-    "timezones": [
-      "UTC+06:30"
-    ]
+    "timezones": ["UTC+06:30"]
   },
   {
     "flags": {
@@ -245,21 +219,15 @@
     },
     "idd": {
       "root": "+9",
-      "suffixes": [
-        "66"
-      ]
+      "suffixes": ["66"]
     },
-    "capital": [
-      "Riyadh"
-    ],
+    "capital": ["Riyadh"],
     "region": "Asia",
     "languages": {
       "ara": "Arabic"
     },
     "population": 35300280,
-    "timezones": [
-      "UTC+03:00"
-    ]
+    "timezones": ["UTC+03:00"]
   },
   {
     "flags": {
@@ -294,13 +262,9 @@
     },
     "idd": {
       "root": "+6",
-      "suffixes": [
-        "79"
-      ]
+      "suffixes": ["79"]
     },
-    "capital": [
-      "Suva"
-    ],
+    "capital": ["Suva"],
     "region": "Oceania",
     "languages": {
       "eng": "English",
@@ -308,9 +272,7 @@
       "hif": "Fiji Hindi"
     },
     "population": 900869,
-    "timezones": [
-      "UTC+12:00"
-    ]
+    "timezones": ["UTC+12:00"]
   },
   {
     "flags": {
@@ -337,21 +299,15 @@
     },
     "idd": {
       "root": "+1",
-      "suffixes": [
-        "264"
-      ]
+      "suffixes": ["264"]
     },
-    "capital": [
-      "The Valley"
-    ],
+    "capital": ["The Valley"],
     "region": "Americas",
     "languages": {
       "eng": "English"
     },
     "population": 16010,
-    "timezones": [
-      "UTC-04:00"
-    ]
+    "timezones": ["UTC-04:00"]
   },
   {
     "flags": {
@@ -378,21 +334,15 @@
     },
     "idd": {
       "root": "+9",
-      "suffixes": [
-        "95"
-      ]
+      "suffixes": ["95"]
     },
-    "capital": [
-      "Tbilisi"
-    ],
+    "capital": ["Tbilisi"],
     "region": "Asia",
     "languages": {
       "kat": "Georgian"
     },
     "population": 4000921,
-    "timezones": [
-      "UTC+04:00"
-    ]
+    "timezones": ["UTC+04:00"]
   },
   {
     "flags": {
@@ -423,22 +373,15 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "90",
-        "47"
-      ]
+      "suffixes": ["90", "47"]
     },
-    "capital": [
-      "Jamestown"
-    ],
+    "capital": ["Jamestown"],
     "region": "Africa",
     "languages": {
       "eng": "English"
     },
     "population": 5651,
-    "timezones": [
-      "UTC+00:00"
-    ]
+    "timezones": ["UTC+00:00"]
   },
   {
     "flags": {
@@ -473,13 +416,9 @@
     },
     "idd": {
       "root": "+5",
-      "suffixes": [
-        "99"
-      ]
+      "suffixes": ["99"]
     },
-    "capital": [
-      "Willemstad"
-    ],
+    "capital": ["Willemstad"],
     "region": "Americas",
     "languages": {
       "eng": "English",
@@ -487,9 +426,7 @@
       "pap": "Papiamento"
     },
     "population": 156115,
-    "timezones": [
-      "UTC-04:00"
-    ]
+    "timezones": ["UTC-04:00"]
   },
   {
     "flags": {
@@ -516,21 +453,15 @@
     },
     "idd": {
       "root": "+3",
-      "suffixes": [
-        "74"
-      ]
+      "suffixes": ["74"]
     },
-    "capital": [
-      "Yerevan"
-    ],
+    "capital": ["Yerevan"],
     "region": "Asia",
     "languages": {
       "hye": "Armenian"
     },
     "population": 3076200,
-    "timezones": [
-      "UTC+04:00"
-    ]
+    "timezones": ["UTC+04:00"]
   },
   {
     "flags": {
@@ -557,21 +488,15 @@
     },
     "idd": {
       "root": "+5",
-      "suffixes": [
-        "06"
-      ]
+      "suffixes": ["06"]
     },
-    "capital": [
-      "San José"
-    ],
+    "capital": ["San José"],
     "region": "Americas",
     "languages": {
       "spa": "Spanish"
     },
     "population": 5309625,
-    "timezones": [
-      "UTC-06:00"
-    ]
+    "timezones": ["UTC-06:00"]
   },
   {
     "flags": {
@@ -598,23 +523,15 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "68"
-      ]
+      "suffixes": ["68"]
     },
-    "capital": [
-      "Washington DC"
-    ],
+    "capital": ["Washington DC"],
     "region": "Americas",
     "languages": {
       "eng": "English"
     },
     "population": 0,
-    "timezones": [
-      "UTC-11:00",
-      "UTC-10:00",
-      "UTC+12:00"
-    ]
+    "timezones": ["UTC-11:00", "UTC-10:00", "UTC+12:00"]
   },
   {
     "flags": {
@@ -641,21 +558,15 @@
     },
     "idd": {
       "root": "+6",
-      "suffixes": [
-        "1"
-      ]
+      "suffixes": ["1"]
     },
-    "capital": [
-      "Flying Fish Cove"
-    ],
+    "capital": ["Flying Fish Cove"],
     "region": "Oceania",
     "languages": {
       "eng": "English"
     },
     "population": 1692,
-    "timezones": [
-      "UTC+07:00"
-    ]
+    "timezones": ["UTC+07:00"]
   },
   {
     "flags": {
@@ -682,21 +593,15 @@
     },
     "idd": {
       "root": "+1",
-      "suffixes": [
-        "268"
-      ]
+      "suffixes": ["268"]
     },
-    "capital": [
-      "Saint John's"
-    ],
+    "capital": ["Saint John's"],
     "region": "Americas",
     "languages": {
       "eng": "English"
     },
     "population": 103603,
-    "timezones": [
-      "UTC-04:00"
-    ]
+    "timezones": ["UTC-04:00"]
   },
   {
     "flags": {
@@ -723,21 +628,15 @@
     },
     "idd": {
       "root": "+5",
-      "suffixes": [
-        "05"
-      ]
+      "suffixes": ["05"]
     },
-    "capital": [
-      "Managua"
-    ],
+    "capital": ["Managua"],
     "region": "Americas",
     "languages": {
       "spa": "Spanish"
     },
     "population": 6803886,
-    "timezones": [
-      "UTC-06:00"
-    ]
+    "timezones": ["UTC-06:00"]
   },
   {
     "flags": {
@@ -768,22 +667,16 @@
     },
     "idd": {
       "root": "+5",
-      "suffixes": [
-        "4"
-      ]
+      "suffixes": ["4"]
     },
-    "capital": [
-      "Buenos Aires"
-    ],
+    "capital": ["Buenos Aires"],
     "region": "Americas",
     "languages": {
       "grn": "Guaraní",
       "spa": "Spanish"
     },
     "population": 46735004,
-    "timezones": [
-      "UTC-03:00"
-    ]
+    "timezones": ["UTC-03:00"]
   },
   {
     "flags": {
@@ -810,21 +703,15 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "20"
-      ]
+      "suffixes": ["20"]
     },
-    "capital": [
-      "Banjul"
-    ],
+    "capital": ["Banjul"],
     "region": "Africa",
     "languages": {
       "eng": "English"
     },
     "population": 2422712,
-    "timezones": [
-      "UTC+00:00"
-    ]
+    "timezones": ["UTC+00:00"]
   },
   {
     "flags": {
@@ -851,21 +738,15 @@
     },
     "idd": {
       "root": "+4",
-      "suffixes": [
-        "779"
-      ]
+      "suffixes": ["779"]
     },
-    "capital": [
-      "Longyearbyen"
-    ],
+    "capital": ["Longyearbyen"],
     "region": "Europe",
     "languages": {
       "nor": "Norwegian"
     },
     "population": 2530,
-    "timezones": [
-      "UTC+01:00"
-    ]
+    "timezones": ["UTC+01:00"]
   },
   {
     "flags": {
@@ -892,21 +773,15 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "27"
-      ]
+      "suffixes": ["27"]
     },
-    "capital": [
-      "Niamey"
-    ],
+    "capital": ["Niamey"],
     "region": "Africa",
     "languages": {
       "fra": "French"
     },
     "population": 26312034,
-    "timezones": [
-      "UTC+01:00"
-    ]
+    "timezones": ["UTC+01:00"]
   },
   {
     "flags": {
@@ -937,22 +812,16 @@
     },
     "idd": {
       "root": "+3",
-      "suffixes": [
-        "56"
-      ]
+      "suffixes": ["56"]
     },
-    "capital": [
-      "Valletta"
-    ],
+    "capital": ["Valletta"],
     "region": "Europe",
     "languages": {
       "eng": "English",
       "mlt": "Maltese"
     },
     "population": 574250,
-    "timezones": [
-      "UTC+01:00"
-    ]
+    "timezones": ["UTC+01:00"]
   },
   {
     "flags": {
@@ -987,22 +856,16 @@
     },
     "idd": {
       "root": "+4",
-      "suffixes": [
-        "4"
-      ]
+      "suffixes": ["4"]
     },
-    "capital": [
-      "Douglas"
-    ],
+    "capital": ["Douglas"],
     "region": "Europe",
     "languages": {
       "eng": "English",
       "glv": "Manx"
     },
     "population": 84530,
-    "timezones": [
-      "UTC+00:00"
-    ]
+    "timezones": ["UTC+00:00"]
   },
   {
     "flags": {
@@ -1029,21 +892,15 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "44"
-      ]
+      "suffixes": ["44"]
     },
-    "capital": [
-      "Luanda"
-    ],
+    "capital": ["Luanda"],
     "region": "Africa",
     "languages": {
       "por": "Portuguese"
     },
     "population": 36170961,
-    "timezones": [
-      "UTC+01:00"
-    ]
+    "timezones": ["UTC+01:00"]
   },
   {
     "flags": {
@@ -1070,21 +927,15 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "18"
-      ]
+      "suffixes": ["18"]
     },
-    "capital": [
-      "Tripoli"
-    ],
+    "capital": ["Tripoli"],
     "region": "Africa",
     "languages": {
       "ara": "Arabic"
     },
     "population": 7459000,
-    "timezones": [
-      "UTC+01:00"
-    ]
+    "timezones": ["UTC+01:00"]
   },
   {
     "flags": {
@@ -1111,23 +962,15 @@
     },
     "idd": {
       "root": "+5",
-      "suffixes": [
-        "2"
-      ]
+      "suffixes": ["2"]
     },
-    "capital": [
-      "Mexico City"
-    ],
+    "capital": ["Mexico City"],
     "region": "Americas",
     "languages": {
       "spa": "Spanish"
     },
     "population": 130575786,
-    "timezones": [
-      "UTC-08:00",
-      "UTC-07:00",
-      "UTC-06:00"
-    ]
+    "timezones": ["UTC-08:00", "UTC-07:00", "UTC-06:00"]
   },
   {
     "flags": {
@@ -1158,22 +1001,16 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "36"
-      ]
+      "suffixes": ["36"]
     },
-    "capital": [
-      "Bangui"
-    ],
+    "capital": ["Bangui"],
     "region": "Africa",
     "languages": {
       "fra": "French",
       "sag": "Sango"
     },
     "population": 6470307,
-    "timezones": [
-      "UTC+01:00"
-    ]
+    "timezones": ["UTC+01:00"]
   },
   {
     "flags": {
@@ -1200,21 +1037,15 @@
     },
     "idd": {
       "root": "+1",
-      "suffixes": [
-        "473"
-      ]
+      "suffixes": ["473"]
     },
-    "capital": [
-      "St. George's"
-    ],
+    "capital": ["St. George's"],
     "region": "Americas",
     "languages": {
       "eng": "English"
     },
     "population": 109021,
-    "timezones": [
-      "UTC-04:00"
-    ]
+    "timezones": ["UTC-04:00"]
   },
   {
     "flags": {
@@ -1241,21 +1072,15 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "62"
-      ]
+      "suffixes": ["62"]
     },
-    "capital": [
-      "Port-aux-Français"
-    ],
+    "capital": ["Port-aux-Français"],
     "region": "Antarctic",
     "languages": {
       "fra": "French"
     },
     "population": 400,
-    "timezones": [
-      "UTC+05:00"
-    ]
+    "timezones": ["UTC+05:00"]
   },
   {
     "flags": {
@@ -1282,21 +1107,15 @@
     },
     "idd": {
       "root": "+6",
-      "suffixes": [
-        "6"
-      ]
+      "suffixes": ["6"]
     },
-    "capital": [
-      "Bangkok"
-    ],
+    "capital": ["Bangkok"],
     "region": "Asia",
     "languages": {
       "tha": "Thai"
     },
     "population": 65859640,
-    "timezones": [
-      "UTC+07:00"
-    ]
+    "timezones": ["UTC+07:00"]
   },
   {
     "flags": {
@@ -1323,21 +1142,15 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "25"
-      ]
+      "suffixes": ["25"]
     },
-    "capital": [
-      "Yamoussoukro"
-    ],
+    "capital": ["Yamoussoukro"],
     "region": "Africa",
     "languages": {
       "fra": "French"
     },
     "population": 31719275,
-    "timezones": [
-      "UTC"
-    ]
+    "timezones": ["UTC"]
   },
   {
     "flags": {
@@ -1364,21 +1177,15 @@
     },
     "idd": {
       "root": "+8",
-      "suffixes": [
-        "4"
-      ]
+      "suffixes": ["4"]
     },
-    "capital": [
-      "Hanoi"
-    ],
+    "capital": ["Hanoi"],
     "region": "Asia",
     "languages": {
       "vie": "Vietnamese"
     },
     "population": 101343800,
-    "timezones": [
-      "UTC+07:00"
-    ]
+    "timezones": ["UTC+07:00"]
   },
   {
     "flags": {
@@ -1405,21 +1212,15 @@
     },
     "idd": {
       "root": "+3",
-      "suffixes": [
-        "76"
-      ]
+      "suffixes": ["76"]
     },
-    "capital": [
-      "Andorra la Vella"
-    ],
+    "capital": ["Andorra la Vella"],
     "region": "Europe",
     "languages": {
       "cat": "Catalan"
     },
     "population": 88406,
-    "timezones": [
-      "UTC+01:00"
-    ]
+    "timezones": ["UTC+01:00"]
   },
   {
     "flags": {
@@ -1502,13 +1303,9 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "63"
-      ]
+      "suffixes": ["63"]
     },
-    "capital": [
-      "Harare"
-    ],
+    "capital": ["Harare"],
     "region": "Africa",
     "languages": {
       "bwg": "Chibarwe",
@@ -1528,9 +1325,7 @@
       "zib": "Zimbabwean Sign Language"
     },
     "population": 17073087,
-    "timezones": [
-      "UTC+02:00"
-    ]
+    "timezones": ["UTC+02:00"]
   },
   {
     "flags": {
@@ -1561,22 +1356,16 @@
     },
     "idd": {
       "root": "+6",
-      "suffixes": [
-        "70"
-      ]
+      "suffixes": ["70"]
     },
-    "capital": [
-      "Dili"
-    ],
+    "capital": ["Dili"],
     "region": "Asia",
     "languages": {
       "por": "Portuguese",
       "tet": "Tetum"
     },
     "population": 1391221,
-    "timezones": [
-      "UTC+09:00"
-    ]
+    "timezones": ["UTC+09:00"]
   },
   {
     "flags": {
@@ -1603,21 +1392,15 @@
     },
     "idd": {
       "root": "+4",
-      "suffixes": [
-        "9"
-      ]
+      "suffixes": ["9"]
     },
-    "capital": [
-      "Berlin"
-    ],
+    "capital": ["Berlin"],
     "region": "Europe",
     "languages": {
       "deu": "German"
     },
     "population": 83491249,
-    "timezones": [
-      "UTC+01:00"
-    ]
+    "timezones": ["UTC+01:00"]
   },
   {
     "flags": {
@@ -1644,21 +1427,15 @@
     },
     "idd": {
       "root": "+3",
-      "suffixes": [
-        "78"
-      ]
+      "suffixes": ["78"]
     },
-    "capital": [
-      "City of San Marino"
-    ],
+    "capital": ["City of San Marino"],
     "region": "Europe",
     "languages": {
       "ita": "Italian"
     },
     "population": 34132,
-    "timezones": [
-      "UTC+01:00"
-    ]
+    "timezones": ["UTC+01:00"]
   },
   {
     "flags": {
@@ -1689,22 +1466,16 @@
     },
     "idd": {
       "root": "+3",
-      "suffixes": [
-        "57"
-      ]
+      "suffixes": ["57"]
     },
-    "capital": [
-      "Nicosia"
-    ],
+    "capital": ["Nicosia"],
     "region": "Europe",
     "languages": {
       "ell": "Greek",
       "tur": "Turkish"
     },
     "population": 1442614,
-    "timezones": [
-      "UTC+02:00"
-    ]
+    "timezones": ["UTC+02:00"]
   },
   {
     "flags": {
@@ -1735,21 +1506,15 @@
     },
     "idd": {
       "root": "+6",
-      "suffixes": [
-        "73"
-      ]
+      "suffixes": ["73"]
     },
-    "capital": [
-      "Bandar Seri Begawan"
-    ],
+    "capital": ["Bandar Seri Begawan"],
     "region": "Asia",
     "languages": {
       "msa": "Malay"
     },
     "population": 455500,
-    "timezones": [
-      "UTC+08:00"
-    ]
+    "timezones": ["UTC+08:00"]
   },
   {
     "flags": {
@@ -1776,21 +1541,15 @@
     },
     "idd": {
       "root": "+5",
-      "suffixes": [
-        "90"
-      ]
+      "suffixes": ["90"]
     },
-    "capital": [
-      "Basse-Terre"
-    ],
+    "capital": ["Basse-Terre"],
     "region": "Americas",
     "languages": {
       "fra": "French"
     },
     "population": 378561,
-    "timezones": [
-      "UTC-04:00"
-    ]
+    "timezones": ["UTC-04:00"]
   },
   {
     "flags": {
@@ -1821,24 +1580,16 @@
     },
     "idd": {
       "root": "+7",
-      "suffixes": [
-        "6",
-        "7"
-      ]
+      "suffixes": ["6", "7"]
     },
-    "capital": [
-      "Astana"
-    ],
+    "capital": ["Astana"],
     "region": "Asia",
     "languages": {
       "kaz": "Kazakh",
       "rus": "Russian"
     },
     "population": 20426568,
-    "timezones": [
-      "UTC+05:00",
-      "UTC+06:00"
-    ]
+    "timezones": ["UTC+05:00", "UTC+06:00"]
   },
   {
     "flags": {
@@ -1869,22 +1620,16 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "35"
-      ]
+      "suffixes": ["35"]
     },
-    "capital": [
-      "N'Djamena"
-    ],
+    "capital": ["N'Djamena"],
     "region": "Africa",
     "languages": {
       "ara": "Arabic",
       "fra": "French"
     },
     "population": 19340757,
-    "timezones": [
-      "UTC+01:00"
-    ]
+    "timezones": ["UTC+01:00"]
   },
   {
     "flags": {
@@ -1919,22 +1664,16 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "98"
-      ]
+      "suffixes": ["98"]
     },
-    "capital": [
-      "Tórshavn"
-    ],
+    "capital": ["Tórshavn"],
     "region": "Europe",
     "languages": {
       "dan": "Danish",
       "fao": "Faroese"
     },
     "population": 54885,
-    "timezones": [
-      "UTC+00:00"
-    ]
+    "timezones": ["UTC+00:00"]
   },
   {
     "flags": {
@@ -1961,21 +1700,15 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "33"
-      ]
+      "suffixes": ["33"]
     },
-    "capital": [
-      "Accra"
-    ],
+    "capital": ["Accra"],
     "region": "Africa",
     "languages": {
       "eng": "English"
     },
     "population": 33742380,
-    "timezones": [
-      "UTC"
-    ]
+    "timezones": ["UTC"]
   },
   {
     "flags": {
@@ -2002,21 +1735,15 @@
     },
     "idd": {
       "root": "+9",
-      "suffixes": [
-        "74"
-      ]
+      "suffixes": ["74"]
     },
-    "capital": [
-      "Doha"
-    ],
+    "capital": ["Doha"],
     "region": "Asia",
     "languages": {
       "ara": "Arabic"
     },
     "population": 3173024,
-    "timezones": [
-      "UTC+03:00"
-    ]
+    "timezones": ["UTC+03:00"]
   },
   {
     "flags": {
@@ -2047,13 +1774,9 @@
     },
     "idd": {
       "root": "+1",
-      "suffixes": [
-        ""
-      ]
+      "suffixes": [""]
     },
-    "capital": [
-      "Ottawa"
-    ],
+    "capital": ["Ottawa"],
     "region": "Americas",
     "languages": {
       "eng": "English",
@@ -2094,22 +1817,15 @@
     },
     "idd": {
       "root": "+6",
-      "suffixes": [
-        "91"
-      ]
+      "suffixes": ["91"]
     },
-    "capital": [
-      "Palikir"
-    ],
+    "capital": ["Palikir"],
     "region": "Oceania",
     "languages": {
       "eng": "English"
     },
     "population": 105564,
-    "timezones": [
-      "UTC+10:00",
-      "UTC+11:00"
-    ]
+    "timezones": ["UTC+10:00", "UTC+11:00"]
   },
   {
     "flags": {
@@ -2140,22 +1856,16 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "52"
-      ]
+      "suffixes": ["52"]
     },
-    "capital": [
-      "Mogadishu"
-    ],
+    "capital": ["Mogadishu"],
     "region": "Africa",
     "languages": {
       "ara": "Arabic",
       "som": "Somali"
     },
     "population": 19655000,
-    "timezones": [
-      "UTC+03:00"
-    ]
+    "timezones": ["UTC+03:00"]
   },
   {
     "flags": {
@@ -2186,22 +1896,16 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "12"
-      ]
+      "suffixes": ["12"]
     },
-    "capital": [
-      "Rabat"
-    ],
+    "capital": ["Rabat"],
     "region": "Africa",
     "languages": {
       "ara": "Arabic",
       "ber": "Berber"
     },
     "population": 36828330,
-    "timezones": [
-      "UTC"
-    ]
+    "timezones": ["UTC"]
   },
   {
     "flags": {
@@ -2228,21 +1932,15 @@
     },
     "idd": {
       "root": "+5",
-      "suffixes": [
-        "00"
-      ]
+      "suffixes": ["00"]
     },
-    "capital": [
-      "King Edward Point"
-    ],
+    "capital": ["King Edward Point"],
     "region": "Antarctic",
     "languages": {
       "eng": "English"
     },
     "population": 0,
-    "timezones": [
-      "UTC-02:00"
-    ]
+    "timezones": ["UTC-02:00"]
   },
   {
     "flags": {
@@ -2269,21 +1967,15 @@
     },
     "idd": {
       "root": "+1",
-      "suffixes": [
-        "868"
-      ]
+      "suffixes": ["868"]
     },
-    "capital": [
-      "Port of Spain"
-    ],
+    "capital": ["Port of Spain"],
     "region": "Americas",
     "languages": {
       "eng": "English"
     },
     "population": 1367764,
-    "timezones": [
-      "UTC-04:00"
-    ]
+    "timezones": ["UTC-04:00"]
   },
   {
     "flags": {
@@ -2318,13 +2010,9 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "30"
-      ]
+      "suffixes": ["30"]
     },
-    "capital": [
-      "Port Louis"
-    ],
+    "capital": ["Port Louis"],
     "region": "Africa",
     "languages": {
       "eng": "English",
@@ -2332,9 +2020,7 @@
       "mfe": "Mauritian Creole"
     },
     "population": 1243741,
-    "timezones": [
-      "UTC+04:00"
-    ]
+    "timezones": ["UTC+04:00"]
   },
   {
     "flags": {
@@ -2356,9 +2042,7 @@
     "currencies": {},
     "idd": {
       "root": "+4",
-      "suffixes": [
-        "7"
-      ]
+      "suffixes": ["7"]
     },
     "capital": [],
     "region": "Antarctic",
@@ -2366,9 +2050,7 @@
       "nor": "Norwegian"
     },
     "population": 0,
-    "timezones": [
-      "UTC+01:00"
-    ]
+    "timezones": ["UTC+01:00"]
   },
   {
     "flags": {
@@ -2395,21 +2077,15 @@
     },
     "idd": {
       "root": "+9",
-      "suffixes": [
-        "94"
-      ]
+      "suffixes": ["94"]
     },
-    "capital": [
-      "Baku"
-    ],
+    "capital": ["Baku"],
     "region": "Asia",
     "languages": {
       "aze": "Azerbaijani"
     },
     "population": 10241722,
-    "timezones": [
-      "UTC+04:00"
-    ]
+    "timezones": ["UTC+04:00"]
   },
   {
     "flags": {
@@ -2436,21 +2112,15 @@
     },
     "idd": {
       "root": "+5",
-      "suffixes": [
-        "90"
-      ]
+      "suffixes": ["90"]
     },
-    "capital": [
-      "Marigot"
-    ],
+    "capital": ["Marigot"],
     "region": "Americas",
     "languages": {
       "fra": "French"
     },
     "population": 31496,
-    "timezones": [
-      "UTC-04:00"
-    ]
+    "timezones": ["UTC-04:00"]
   },
   {
     "flags": {
@@ -2477,21 +2147,15 @@
     },
     "idd": {
       "root": "+5",
-      "suffixes": [
-        "92"
-      ]
+      "suffixes": ["92"]
     },
-    "capital": [
-      "Georgetown"
-    ],
+    "capital": ["Georgetown"],
     "region": "Americas",
     "languages": {
       "eng": "English"
     },
     "population": 772975,
-    "timezones": [
-      "UTC-04:00"
-    ]
+    "timezones": ["UTC-04:00"]
   },
   {
     "flags": {
@@ -2518,21 +2182,15 @@
     },
     "idd": {
       "root": "+5",
-      "suffixes": [
-        "96"
-      ]
+      "suffixes": ["96"]
     },
-    "capital": [
-      "Fort-de-France"
-    ],
+    "capital": ["Fort-de-France"],
     "region": "Americas",
     "languages": {
       "fra": "French"
     },
     "population": 349925,
-    "timezones": [
-      "UTC-04:00"
-    ]
+    "timezones": ["UTC-04:00"]
   },
   {
     "flags": {
@@ -2559,21 +2217,15 @@
     },
     "idd": {
       "root": "+6",
-      "suffixes": [
-        "87"
-      ]
+      "suffixes": ["87"]
     },
-    "capital": [
-      "Nouméa"
-    ],
+    "capital": ["Nouméa"],
     "region": "Oceania",
     "languages": {
       "fra": "French"
     },
     "population": 264596,
-    "timezones": [
-      "UTC+11:00"
-    ]
+    "timezones": ["UTC+11:00"]
   },
   {
     "flags": {
@@ -2604,21 +2256,15 @@
     },
     "idd": {
       "root": "+9",
-      "suffixes": [
-        "75"
-      ]
+      "suffixes": ["75"]
     },
-    "capital": [
-      "Thimphu"
-    ],
+    "capital": ["Thimphu"],
     "region": "Asia",
     "languages": {
       "dzo": "Dzongkha"
     },
     "population": 784043,
-    "timezones": [
-      "UTC+06:00"
-    ]
+    "timezones": ["UTC+06:00"]
   },
   {
     "flags": {
@@ -2645,21 +2291,15 @@
     },
     "idd": {
       "root": "+1",
-      "suffixes": [
-        "246"
-      ]
+      "suffixes": ["246"]
     },
-    "capital": [
-      "Bridgetown"
-    ],
+    "capital": ["Bridgetown"],
     "region": "Americas",
     "languages": {
       "eng": "English"
     },
     "population": 267800,
-    "timezones": [
-      "UTC-04:00"
-    ]
+    "timezones": ["UTC-04:00"]
   },
   {
     "flags": {
@@ -2690,23 +2330,16 @@
     },
     "idd": {
       "root": "+3",
-      "suffixes": [
-        "906698",
-        "79"
-      ]
+      "suffixes": ["906698", "79"]
     },
-    "capital": [
-      "Vatican City"
-    ],
+    "capital": ["Vatican City"],
     "region": "Europe",
     "languages": {
       "ita": "Italian",
       "lat": "Latin"
     },
     "population": 882,
-    "timezones": [
-      "UTC+01:00"
-    ]
+    "timezones": ["UTC+01:00"]
   },
   {
     "flags": {
@@ -2741,24 +2374,16 @@
     },
     "idd": {
       "root": "+6",
-      "suffixes": [
-        "86"
-      ]
+      "suffixes": ["86"]
     },
-    "capital": [
-      "South Tarawa"
-    ],
+    "capital": ["South Tarawa"],
     "region": "Oceania",
     "languages": {
       "eng": "English",
       "gil": "Gilbertese"
     },
     "population": 120740,
-    "timezones": [
-      "UTC+12:00",
-      "UTC+13:00",
-      "UTC+14:00"
-    ]
+    "timezones": ["UTC+12:00", "UTC+13:00", "UTC+14:00"]
   },
   {
     "flags": {
@@ -2789,22 +2414,16 @@
     },
     "idd": {
       "root": "+5",
-      "suffixes": [
-        "95"
-      ]
+      "suffixes": ["95"]
     },
-    "capital": [
-      "Asunción"
-    ],
+    "capital": ["Asunción"],
     "region": "Americas",
     "languages": {
       "grn": "Guaraní",
       "spa": "Spanish"
     },
     "population": 6109644,
-    "timezones": [
-      "UTC-04:00"
-    ]
+    "timezones": ["UTC-04:00"]
   },
   {
     "flags": {
@@ -2831,21 +2450,15 @@
     },
     "idd": {
       "root": "+5",
-      "suffixes": [
-        "04"
-      ]
+      "suffixes": ["04"]
     },
-    "capital": [
-      "Tegucigalpa"
-    ],
+    "capital": ["Tegucigalpa"],
     "region": "Americas",
     "languages": {
       "spa": "Spanish"
     },
     "population": 9892632,
-    "timezones": [
-      "UTC-06:00"
-    ]
+    "timezones": ["UTC-06:00"]
   },
   {
     "flags": {
@@ -2872,21 +2485,15 @@
     },
     "idd": {
       "root": "+9",
-      "suffixes": [
-        "62"
-      ]
+      "suffixes": ["62"]
     },
-    "capital": [
-      "Amman"
-    ],
+    "capital": ["Amman"],
     "region": "Asia",
     "languages": {
       "ara": "Arabic"
     },
     "population": 11734000,
-    "timezones": [
-      "UTC+03:00"
-    ]
+    "timezones": ["UTC+03:00"]
   },
   {
     "flags": {
@@ -2913,21 +2520,15 @@
     },
     "idd": {
       "root": "+3",
-      "suffixes": [
-        "81"
-      ]
+      "suffixes": ["81"]
     },
-    "capital": [
-      "Belgrade"
-    ],
+    "capital": ["Belgrade"],
     "region": "Europe",
     "languages": {
       "srp": "Serbian"
     },
     "population": 6567783,
-    "timezones": [
-      "UTC+01:00"
-    ]
+    "timezones": ["UTC+01:00"]
   },
   {
     "flags": {
@@ -2954,21 +2555,15 @@
     },
     "idd": {
       "root": "+5",
-      "suffixes": [
-        "90"
-      ]
+      "suffixes": ["90"]
     },
-    "capital": [
-      "Gustavia"
-    ],
+    "capital": ["Gustavia"],
     "region": "Americas",
     "languages": {
       "fra": "French"
     },
     "population": 10562,
-    "timezones": [
-      "UTC-04:00"
-    ]
+    "timezones": ["UTC-04:00"]
   },
   {
     "flags": {
@@ -2999,22 +2594,16 @@
     },
     "idd": {
       "root": "+5",
-      "suffixes": [
-        "09"
-      ]
+      "suffixes": ["09"]
     },
-    "capital": [
-      "Port-au-Prince"
-    ],
+    "capital": ["Port-au-Prince"],
     "region": "Americas",
     "languages": {
       "fra": "French",
       "hat": "Haitian Creole"
     },
     "population": 11867032,
-    "timezones": [
-      "UTC-05:00"
-    ]
+    "timezones": ["UTC-05:00"]
   },
   {
     "flags": {
@@ -3041,21 +2630,15 @@
     },
     "idd": {
       "root": "+8",
-      "suffixes": [
-        "56"
-      ]
+      "suffixes": ["56"]
     },
-    "capital": [
-      "Vientiane"
-    ],
+    "capital": ["Vientiane"],
     "region": "Asia",
     "languages": {
       "lao": "Lao"
     },
     "population": 7647000,
-    "timezones": [
-      "UTC+07:00"
-    ]
+    "timezones": ["UTC+07:00"]
   },
   {
     "flags": {
@@ -3082,21 +2665,15 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "34"
-      ]
+      "suffixes": ["34"]
     },
-    "capital": [
-      "Abuja"
-    ],
+    "capital": ["Abuja"],
     "region": "Africa",
     "languages": {
       "eng": "English"
     },
     "population": 223800000,
-    "timezones": [
-      "UTC+01:00"
-    ]
+    "timezones": ["UTC+01:00"]
   },
   {
     "flags": {
@@ -3123,21 +2700,15 @@
     },
     "idd": {
       "root": "+3",
-      "suffixes": [
-        "59"
-      ]
+      "suffixes": ["59"]
     },
-    "capital": [
-      "Sofia"
-    ],
+    "capital": ["Sofia"],
     "region": "Europe",
     "languages": {
       "bul": "Bulgarian"
     },
     "population": 6437360,
-    "timezones": [
-      "UTC+02:00"
-    ]
+    "timezones": ["UTC+02:00"]
   },
   {
     "flags": {
@@ -3164,17 +2735,9 @@
     },
     "idd": {
       "root": "+7",
-      "suffixes": [
-        "3",
-        "4",
-        "5",
-        "8",
-        "9"
-      ]
+      "suffixes": ["3", "4", "5", "8", "9"]
     },
-    "capital": [
-      "Moscow"
-    ],
+    "capital": ["Moscow"],
     "region": "Europe",
     "languages": {
       "rus": "Russian"
@@ -3217,21 +2780,15 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "22"
-      ]
+      "suffixes": ["22"]
     },
-    "capital": [
-      "Nouakchott"
-    ],
+    "capital": ["Nouakchott"],
     "region": "Africa",
     "languages": {
       "ara": "Arabic"
     },
     "population": 4927532,
-    "timezones": [
-      "UTC"
-    ]
+    "timezones": ["UTC"]
   },
   {
     "flags": {
@@ -3266,13 +2823,9 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "50"
-      ]
+      "suffixes": ["50"]
     },
-    "capital": [
-      "Kigali"
-    ],
+    "capital": ["Kigali"],
     "region": "Africa",
     "languages": {
       "eng": "English",
@@ -3280,9 +2833,7 @@
       "kin": "Kinyarwanda"
     },
     "population": 14104969,
-    "timezones": [
-      "UTC+02:00"
-    ]
+    "timezones": ["UTC+02:00"]
   },
   {
     "flags": {
@@ -3309,21 +2860,15 @@
     },
     "idd": {
       "root": "+5",
-      "suffixes": [
-        "98"
-      ]
+      "suffixes": ["98"]
     },
-    "capital": [
-      "Montevideo"
-    ],
+    "capital": ["Montevideo"],
     "region": "Americas",
     "languages": {
       "spa": "Spanish"
     },
     "population": 3499451,
-    "timezones": [
-      "UTC-03:00"
-    ]
+    "timezones": ["UTC-03:00"]
   },
   {
     "flags": {
@@ -3354,22 +2899,16 @@
     },
     "idd": {
       "root": "+6",
-      "suffixes": [
-        "0"
-      ]
+      "suffixes": ["0"]
     },
-    "capital": [
-      "Kuala Lumpur"
-    ],
+    "capital": ["Kuala Lumpur"],
     "region": "Asia",
     "languages": {
       "eng": "English",
       "msa": "Malay"
     },
     "population": 34231700,
-    "timezones": [
-      "UTC+08:00"
-    ]
+    "timezones": ["UTC+08:00"]
   },
   {
     "flags": {
@@ -3400,22 +2939,16 @@
     },
     "idd": {
       "root": "+6",
-      "suffixes": [
-        "80"
-      ]
+      "suffixes": ["80"]
     },
-    "capital": [
-      "Ngerulmud"
-    ],
+    "capital": ["Ngerulmud"],
     "region": "Oceania",
     "languages": {
       "eng": "English",
       "pau": "Palauan"
     },
     "population": 16733,
-    "timezones": [
-      "UTC+09:00"
-    ]
+    "timezones": ["UTC+09:00"]
   },
   {
     "flags": {
@@ -3442,21 +2975,15 @@
     },
     "idd": {
       "root": "+3",
-      "suffixes": [
-        "73"
-      ]
+      "suffixes": ["73"]
     },
-    "capital": [
-      "Chișinău"
-    ],
+    "capital": ["Chișinău"],
     "region": "Europe",
     "languages": {
       "ron": "Romanian"
     },
     "population": 2749076,
-    "timezones": [
-      "UTC+02:00"
-    ]
+    "timezones": ["UTC+02:00"]
   },
   {
     "flags": {
@@ -3491,13 +3018,9 @@
     },
     "idd": {
       "root": "+5",
-      "suffixes": [
-        "1"
-      ]
+      "suffixes": ["1"]
     },
-    "capital": [
-      "Lima"
-    ],
+    "capital": ["Lima"],
     "region": "Americas",
     "languages": {
       "aym": "Aymara",
@@ -3505,9 +3028,7 @@
       "spa": "Spanish"
     },
     "population": 34350244,
-    "timezones": [
-      "UTC-05:00"
-    ]
+    "timezones": ["UTC-05:00"]
   },
   {
     "flags": {
@@ -3538,21 +3059,15 @@
     },
     "idd": {
       "root": "+1",
-      "suffixes": [
-        "242"
-      ]
+      "suffixes": ["242"]
     },
-    "capital": [
-      "Nassau"
-    ],
+    "capital": ["Nassau"],
     "region": "Americas",
     "languages": {
       "eng": "English"
     },
     "population": 398165,
-    "timezones": [
-      "UTC-05:00"
-    ]
+    "timezones": ["UTC-05:00"]
   },
   {
     "flags": {
@@ -3583,22 +3098,16 @@
     },
     "idd": {
       "root": "+3",
-      "suffixes": [
-        "83"
-      ]
+      "suffixes": ["83"]
     },
-    "capital": [
-      "Pristina"
-    ],
+    "capital": ["Pristina"],
     "region": "Europe",
     "languages": {
       "sqi": "Albanian",
       "srp": "Serbian"
     },
     "population": 1585566,
-    "timezones": [
-      "UTC+01:00"
-    ]
+    "timezones": ["UTC+01:00"]
   },
   {
     "flags": {
@@ -3625,21 +3134,15 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "62"
-      ]
+      "suffixes": ["62"]
     },
-    "capital": [
-      "Saint-Denis"
-    ],
+    "capital": ["Saint-Denis"],
     "region": "Africa",
     "languages": {
       "fra": "French"
     },
     "population": 896175,
-    "timezones": [
-      "UTC+04:00"
-    ]
+    "timezones": ["UTC+04:00"]
   },
   {
     "flags": {
@@ -3666,21 +3169,15 @@
     },
     "idd": {
       "root": "+9",
-      "suffixes": [
-        "8"
-      ]
+      "suffixes": ["8"]
     },
-    "capital": [
-      "Tehran"
-    ],
+    "capital": ["Tehran"],
     "region": "Asia",
     "languages": {
       "fas": "Persian (Farsi)"
     },
     "population": 85961000,
-    "timezones": [
-      "UTC+03:30"
-    ]
+    "timezones": ["UTC+03:30"]
   },
   {
     "flags": {
@@ -3707,21 +3204,15 @@
     },
     "idd": {
       "root": "+5",
-      "suffixes": [
-        "8"
-      ]
+      "suffixes": ["8"]
     },
-    "capital": [
-      "Caracas"
-    ],
+    "capital": ["Caracas"],
     "region": "Americas",
     "languages": {
       "spa": "Spanish"
     },
     "population": 28517000,
-    "timezones": [
-      "UTC-04:00"
-    ]
+    "timezones": ["UTC-04:00"]
   },
   {
     "flags": {
@@ -3764,13 +3255,9 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "43"
-      ]
+      "suffixes": ["43"]
     },
-    "capital": [
-      "Kinshasa"
-    ],
+    "capital": ["Kinshasa"],
     "region": "Africa",
     "languages": {
       "fra": "French",
@@ -3780,10 +3267,7 @@
       "swa": "Swahili"
     },
     "population": 112832000,
-    "timezones": [
-      "UTC+01:00",
-      "UTC+02:00"
-    ]
+    "timezones": ["UTC+01:00", "UTC+02:00"]
   },
   {
     "flags": {
@@ -4130,9 +3614,7 @@
         "989"
       ]
     },
-    "capital": [
-      "Washington, D.C."
-    ],
+    "capital": ["Washington, D.C."],
     "region": "Americas",
     "languages": {
       "eng": "English"
@@ -4177,21 +3659,15 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "23"
-      ]
+      "suffixes": ["23"]
     },
-    "capital": [
-      "Bamako"
-    ],
+    "capital": ["Bamako"],
     "region": "Africa",
     "languages": {
       "fra": "French"
     },
     "population": 22395489,
-    "timezones": [
-      "UTC"
-    ]
+    "timezones": ["UTC"]
   },
   {
     "flags": {
@@ -4218,13 +3694,9 @@
     },
     "idd": {
       "root": "+3",
-      "suffixes": [
-        "4"
-      ]
+      "suffixes": ["4"]
     },
-    "capital": [
-      "Madrid"
-    ],
+    "capital": ["Madrid"],
     "region": "Europe",
     "languages": {
       "spa": "Spanish",
@@ -4233,10 +3705,7 @@
       "glc": "Galician"
     },
     "population": 49315949,
-    "timezones": [
-      "UTC",
-      "UTC+01:00"
-    ]
+    "timezones": ["UTC", "UTC+01:00"]
   },
   {
     "flags": {
@@ -4263,21 +3732,15 @@
     },
     "idd": {
       "root": "+4",
-      "suffixes": [
-        "6"
-      ]
+      "suffixes": ["6"]
     },
-    "capital": [
-      "Stockholm"
-    ],
+    "capital": ["Stockholm"],
     "region": "Europe",
     "languages": {
       "swe": "Swedish"
     },
     "population": 10605098,
-    "timezones": [
-      "UTC+01:00"
-    ]
+    "timezones": ["UTC+01:00"]
   },
   {
     "flags": {
@@ -4312,22 +3775,16 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "68"
-      ]
+      "suffixes": ["68"]
     },
-    "capital": [
-      "Mbabane"
-    ],
+    "capital": ["Mbabane"],
     "region": "Africa",
     "languages": {
       "eng": "English",
       "ssw": "Swazi"
     },
     "population": 1235549,
-    "timezones": [
-      "UTC+02:00"
-    ]
+    "timezones": ["UTC+02:00"]
   },
   {
     "flags": {
@@ -4354,21 +3811,15 @@
     },
     "idd": {
       "root": "+3",
-      "suffixes": [
-        "72"
-      ]
+      "suffixes": ["72"]
     },
-    "capital": [
-      "Tallinn"
-    ],
+    "capital": ["Tallinn"],
     "region": "Europe",
     "languages": {
       "est": "Estonian"
     },
     "population": 1369995,
-    "timezones": [
-      "UTC+02:00"
-    ]
+    "timezones": ["UTC+02:00"]
   },
   {
     "flags": {
@@ -4395,21 +3846,15 @@
     },
     "idd": {
       "root": "+3",
-      "suffixes": [
-        "80"
-      ]
+      "suffixes": ["80"]
     },
-    "capital": [
-      "Kyiv"
-    ],
+    "capital": ["Kyiv"],
     "region": "Europe",
     "languages": {
       "ukr": "Ukrainian"
     },
     "population": 32862000,
-    "timezones": [
-      "UTC+02:00"
-    ]
+    "timezones": ["UTC+02:00"]
   },
   {
     "flags": {
@@ -4440,22 +3885,16 @@
     },
     "idd": {
       "root": "+3",
-      "suffixes": [
-        "75"
-      ]
+      "suffixes": ["75"]
     },
-    "capital": [
-      "Minsk"
-    ],
+    "capital": ["Minsk"],
     "region": "Europe",
     "languages": {
       "bel": "Belarusian",
       "rus": "Russian"
     },
     "population": 9109280,
-    "timezones": [
-      "UTC+03:00"
-    ]
+    "timezones": ["UTC+03:00"]
   },
   {
     "flags": {
@@ -4482,21 +3921,15 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "28"
-      ]
+      "suffixes": ["28"]
     },
-    "capital": [
-      "Lomé"
-    ],
+    "capital": ["Lomé"],
     "region": "Africa",
     "languages": {
       "fra": "French"
     },
     "population": 8095498,
-    "timezones": [
-      "UTC"
-    ]
+    "timezones": ["UTC"]
   },
   {
     "flags": {
@@ -4535,13 +3968,9 @@
     },
     "idd": {
       "root": "+4",
-      "suffixes": [
-        "4"
-      ]
+      "suffixes": ["4"]
     },
-    "capital": [
-      "Saint Helier"
-    ],
+    "capital": ["Saint Helier"],
     "region": "Europe",
     "languages": {
       "eng": "English",
@@ -4549,9 +3978,7 @@
       "nrf": "Jèrriais"
     },
     "population": 103267,
-    "timezones": [
-      "UTC+01:00"
-    ]
+    "timezones": ["UTC+01:00"]
   },
   {
     "flags": {
@@ -4578,21 +4005,15 @@
     },
     "idd": {
       "root": "+1",
-      "suffixes": [
-        "758"
-      ]
+      "suffixes": ["758"]
     },
-    "capital": [
-      "Castries"
-    ],
+    "capital": ["Castries"],
     "region": "Americas",
     "languages": {
       "eng": "English"
     },
     "population": 184100,
-    "timezones": [
-      "UTC-04:00"
-    ]
+    "timezones": ["UTC-04:00"]
   },
   {
     "flags": {
@@ -4627,22 +4048,16 @@
     },
     "idd": {
       "root": "+6",
-      "suffixes": [
-        "88"
-      ]
+      "suffixes": ["88"]
     },
-    "capital": [
-      "Funafuti"
-    ],
+    "capital": ["Funafuti"],
     "region": "Oceania",
     "languages": {
       "eng": "English",
       "tvl": "Tuvaluan"
     },
     "population": 10643,
-    "timezones": [
-      "UTC+12:00"
-    ]
+    "timezones": ["UTC+12:00"]
   },
   {
     "flags": {
@@ -4669,21 +4084,15 @@
     },
     "idd": {
       "root": "+3",
-      "suffixes": [
-        "70"
-      ]
+      "suffixes": ["70"]
     },
-    "capital": [
-      "Vilnius"
-    ],
+    "capital": ["Vilnius"],
     "region": "Europe",
     "languages": {
       "lit": "Lithuanian"
     },
     "population": 2894886,
-    "timezones": [
-      "UTC+02:00"
-    ]
+    "timezones": ["UTC+02:00"]
   },
   {
     "flags": {
@@ -4710,21 +4119,15 @@
     },
     "idd": {
       "root": "+1",
-      "suffixes": [
-        "649"
-      ]
+      "suffixes": ["649"]
     },
-    "capital": [
-      "Cockburn Town"
-    ],
+    "capital": ["Cockburn Town"],
     "region": "Americas",
     "languages": {
       "eng": "English"
     },
     "population": 50828,
-    "timezones": [
-      "UTC-04:00"
-    ]
+    "timezones": ["UTC-04:00"]
   },
   {
     "flags": {
@@ -4751,23 +4154,15 @@
     },
     "idd": {
       "root": "+6",
-      "suffixes": [
-        "89"
-      ]
+      "suffixes": ["89"]
     },
-    "capital": [
-      "Papeetē"
-    ],
+    "capital": ["Papeetē"],
     "region": "Oceania",
     "languages": {
       "fra": "French"
     },
     "population": 279500,
-    "timezones": [
-      "UTC-10:00",
-      "UTC-09:30",
-      "UTC-09:00"
-    ]
+    "timezones": ["UTC-10:00", "UTC-09:30", "UTC-09:00"]
   },
   {
     "flags": {
@@ -4794,21 +4189,15 @@
     },
     "idd": {
       "root": "+3",
-      "suffixes": [
-        "1"
-      ]
+      "suffixes": ["1"]
     },
-    "capital": [
-      "Amsterdam"
-    ],
+    "capital": ["Amsterdam"],
     "region": "Europe",
     "languages": {
       "nld": "Dutch"
     },
     "population": 18100436,
-    "timezones": [
-      "UTC+01:00"
-    ]
+    "timezones": ["UTC+01:00"]
   },
   {
     "flags": {
@@ -4839,22 +4228,16 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "55"
-      ]
+      "suffixes": ["55"]
     },
-    "capital": [
-      "Dodoma"
-    ],
+    "capital": ["Dodoma"],
     "region": "Africa",
     "languages": {
       "eng": "English",
       "swa": "Swahili"
     },
     "population": 68153004,
-    "timezones": [
-      "UTC+03:00"
-    ]
+    "timezones": ["UTC+03:00"]
   },
   {
     "flags": {
@@ -4889,13 +4272,9 @@
     },
     "idd": {
       "root": "+9",
-      "suffixes": [
-        "3"
-      ]
+      "suffixes": ["3"]
     },
-    "capital": [
-      "Kabul"
-    ],
+    "capital": ["Kabul"],
     "region": "Asia",
     "languages": {
       "prs": "Dari",
@@ -4903,9 +4282,7 @@
       "tuk": "Turkmen"
     },
     "population": 43844000,
-    "timezones": [
-      "UTC+04:30"
-    ]
+    "timezones": ["UTC+04:30"]
   },
   {
     "flags": {
@@ -4940,13 +4317,9 @@
     },
     "idd": {
       "root": "+1",
-      "suffixes": [
-        "670"
-      ]
+      "suffixes": ["670"]
     },
-    "capital": [
-      "Saipan"
-    ],
+    "capital": ["Saipan"],
     "region": "Oceania",
     "languages": {
       "cal": "Carolinian",
@@ -4954,9 +4327,7 @@
       "eng": "English"
     },
     "population": 47329,
-    "timezones": [
-      "UTC+10:00"
-    ]
+    "timezones": ["UTC+10:00"]
   },
   {
     "flags": {
@@ -4983,21 +4354,15 @@
     },
     "idd": {
       "root": "+3",
-      "suffixes": [
-        "77"
-      ]
+      "suffixes": ["77"]
     },
-    "capital": [
-      "Monaco"
-    ],
+    "capital": ["Monaco"],
     "region": "Europe",
     "languages": {
       "fra": "French"
     },
     "population": 38423,
-    "timezones": [
-      "UTC+01:00"
-    ]
+    "timezones": ["UTC+01:00"]
   },
   {
     "flags": {
@@ -5024,21 +4389,15 @@
     },
     "idd": {
       "root": "+9",
-      "suffixes": [
-        "71"
-      ]
+      "suffixes": ["71"]
     },
-    "capital": [
-      "Abu Dhabi"
-    ],
+    "capital": ["Abu Dhabi"],
     "region": "Asia",
     "languages": {
       "ara": "Arabic"
     },
     "population": 11294243,
-    "timezones": [
-      "UTC+04:00"
-    ]
+    "timezones": ["UTC+04:00"]
   },
   {
     "flags": {
@@ -5097,21 +4456,15 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "31"
-      ]
+      "suffixes": ["31"]
     },
-    "capital": [
-      "Monrovia"
-    ],
+    "capital": ["Monrovia"],
     "region": "Africa",
     "languages": {
       "eng": "English"
     },
     "population": 5248621,
-    "timezones": [
-      "UTC"
-    ]
+    "timezones": ["UTC"]
   },
   {
     "flags": {
@@ -5138,21 +4491,15 @@
     },
     "idd": {
       "root": "+1",
-      "suffixes": [
-        "664"
-      ]
+      "suffixes": ["664"]
     },
-    "capital": [
-      "Plymouth"
-    ],
+    "capital": ["Plymouth"],
     "region": "Americas",
     "languages": {
       "eng": "English"
     },
     "population": 4386,
-    "timezones": [
-      "UTC-04:00"
-    ]
+    "timezones": ["UTC-04:00"]
   },
   {
     "flags": {
@@ -5179,21 +4526,15 @@
     },
     "idd": {
       "root": "+4",
-      "suffixes": [
-        "3"
-      ]
+      "suffixes": ["3"]
     },
-    "capital": [
-      "Vienna"
-    ],
+    "capital": ["Vienna"],
     "region": "Europe",
     "languages": {
       "deu": "German"
     },
     "population": 9200931,
-    "timezones": [
-      "UTC+01:00"
-    ]
+    "timezones": ["UTC+01:00"]
   },
   {
     "flags": {
@@ -5220,13 +4561,9 @@
     },
     "idd": {
       "root": "+3",
-      "suffixes": [
-        "3"
-      ]
+      "suffixes": ["3"]
     },
-    "capital": [
-      "Paris"
-    ],
+    "capital": ["Paris"],
     "region": "Europe",
     "languages": {
       "fra": "French"
@@ -5278,22 +4615,16 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "56"
-      ]
+      "suffixes": ["56"]
     },
-    "capital": [
-      "Kampala"
-    ],
+    "capital": ["Kampala"],
     "region": "Africa",
     "languages": {
       "eng": "English",
       "swa": "Swahili"
     },
     "population": 45905417,
-    "timezones": [
-      "UTC+03:00"
-    ]
+    "timezones": ["UTC+03:00"]
   },
   {
     "flags": {
@@ -5324,22 +4655,16 @@
     },
     "idd": {
       "root": "+6",
-      "suffixes": [
-        "83"
-      ]
+      "suffixes": ["83"]
     },
-    "capital": [
-      "Alofi"
-    ],
+    "capital": ["Alofi"],
     "region": "Oceania",
     "languages": {
       "eng": "English",
       "niu": "Niuean"
     },
     "population": 1681,
-    "timezones": [
-      "UTC-11:00"
-    ]
+    "timezones": ["UTC-11:00"]
   },
   {
     "flags": {
@@ -5366,21 +4691,15 @@
     },
     "idd": {
       "root": "+3",
-      "suffixes": [
-        "50"
-      ]
+      "suffixes": ["50"]
     },
-    "capital": [
-      "Gibraltar"
-    ],
+    "capital": ["Gibraltar"],
     "region": "Europe",
     "languages": {
       "eng": "English"
     },
     "population": 38000,
-    "timezones": [
-      "UTC+01:00"
-    ]
+    "timezones": ["UTC+01:00"]
   },
   {
     "flags": {
@@ -5407,25 +4726,15 @@
     },
     "idd": {
       "root": "+4",
-      "suffixes": [
-        "5"
-      ]
+      "suffixes": ["5"]
     },
-    "capital": [
-      "Copenhagen"
-    ],
+    "capital": ["Copenhagen"],
     "region": "Europe",
     "languages": {
       "dan": "Danish"
     },
     "population": 6011488,
-    "timezones": [
-      "UTC-04:00",
-      "UTC-03:00",
-      "UTC-01:00",
-      "UTC",
-      "UTC+01:00"
-    ]
+    "timezones": ["UTC-04:00", "UTC-03:00", "UTC-01:00", "UTC", "UTC+01:00"]
   },
   {
     "flags": {
@@ -5452,21 +4761,15 @@
     },
     "idd": {
       "root": "+8",
-      "suffixes": [
-        "86"
-      ]
+      "suffixes": ["86"]
     },
-    "capital": [
-      "Taipei"
-    ],
+    "capital": ["Taipei"],
     "region": "Asia",
     "languages": {
       "zho": "Chinese"
     },
     "population": 23317031,
-    "timezones": [
-      "UTC+08:00"
-    ]
+    "timezones": ["UTC+08:00"]
   },
   {
     "flags": {
@@ -5497,21 +4800,15 @@
     },
     "idd": {
       "root": "+8",
-      "suffixes": [
-        "55"
-      ]
+      "suffixes": ["55"]
     },
-    "capital": [
-      "Phnom Penh"
-    ],
+    "capital": ["Phnom Penh"],
     "region": "Asia",
     "languages": {
       "khm": "Khmer"
     },
     "population": 17577760,
-    "timezones": [
-      "UTC+07:00"
-    ]
+    "timezones": ["UTC+07:00"]
   },
   {
     "flags": {
@@ -5538,21 +4835,15 @@
     },
     "idd": {
       "root": "+6",
-      "suffixes": [
-        "77"
-      ]
+      "suffixes": ["77"]
     },
-    "capital": [
-      "Honiara"
-    ],
+    "capital": ["Honiara"],
     "region": "Oceania",
     "languages": {
       "eng": "English"
     },
     "population": 750325,
-    "timezones": [
-      "UTC+11:00"
-    ]
+    "timezones": ["UTC+11:00"]
   },
   {
     "flags": {
@@ -5583,22 +4874,16 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "67"
-      ]
+      "suffixes": ["67"]
     },
-    "capital": [
-      "Gaborone"
-    ],
+    "capital": ["Gaborone"],
     "region": "Africa",
     "languages": {
       "eng": "English",
       "tsn": "Tswana"
     },
     "population": 2359609,
-    "timezones": [
-      "UTC+02:00"
-    ]
+    "timezones": ["UTC+02:00"]
   },
   {
     "flags": {
@@ -5625,21 +4910,15 @@
     },
     "idd": {
       "root": "+9",
-      "suffixes": [
-        "60"
-      ]
+      "suffixes": ["60"]
     },
-    "capital": [
-      "Malé"
-    ],
+    "capital": ["Malé"],
     "region": "Asia",
     "languages": {
       "div": "Maldivian"
     },
     "population": 515132,
-    "timezones": [
-      "UTC+05:00"
-    ]
+    "timezones": ["UTC+05:00"]
   },
   {
     "flags": {
@@ -5670,22 +4949,16 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "53"
-      ]
+      "suffixes": ["53"]
     },
-    "capital": [
-      "Djibouti"
-    ],
+    "capital": ["Djibouti"],
     "region": "Africa",
     "languages": {
       "ara": "Arabic",
       "fra": "French"
     },
     "population": 1066809,
-    "timezones": [
-      "UTC+03:00"
-    ]
+    "timezones": ["UTC+03:00"]
   },
   {
     "flags": {
@@ -5716,22 +4989,16 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "45"
-      ]
+      "suffixes": ["45"]
     },
-    "capital": [
-      "Bissau"
-    ],
+    "capital": ["Bissau"],
     "region": "Africa",
     "languages": {
       "por": "Portuguese",
       "pov": "Upper Guinea Creole"
     },
     "population": 1781308,
-    "timezones": [
-      "UTC"
-    ]
+    "timezones": ["UTC"]
   },
   {
     "flags": {
@@ -5758,21 +5025,15 @@
     },
     "idd": {
       "root": "+4",
-      "suffixes": [
-        "8"
-      ]
+      "suffixes": ["8"]
     },
-    "capital": [
-      "Warsaw"
-    ],
+    "capital": ["Warsaw"],
     "region": "Europe",
     "languages": {
       "pol": "Polish"
     },
     "population": 37392000,
-    "timezones": [
-      "UTC+01:00"
-    ]
+    "timezones": ["UTC+01:00"]
   },
   {
     "flags": {
@@ -5799,21 +5060,15 @@
     },
     "idd": {
       "root": "+9",
-      "suffixes": [
-        "77"
-      ]
+      "suffixes": ["77"]
     },
-    "capital": [
-      "Kathmandu"
-    ],
+    "capital": ["Kathmandu"],
     "region": "Asia",
     "languages": {
       "nep": "Nepali"
     },
     "population": 29911840,
-    "timezones": [
-      "UTC+05:45"
-    ]
+    "timezones": ["UTC+05:45"]
   },
   {
     "flags": {
@@ -5840,21 +5095,15 @@
     },
     "idd": {
       "root": "+1",
-      "suffixes": [
-        "441"
-      ]
+      "suffixes": ["441"]
     },
-    "capital": [
-      "Hamilton"
-    ],
+    "capital": ["Hamilton"],
     "region": "Americas",
     "languages": {
       "eng": "English"
     },
     "population": 64055,
-    "timezones": [
-      "UTC-04:00"
-    ]
+    "timezones": ["UTC-04:00"]
   },
   {
     "flags": {
@@ -5885,22 +5134,16 @@
     },
     "idd": {
       "root": "+3",
-      "suffixes": [
-        "58"
-      ]
+      "suffixes": ["58"]
     },
-    "capital": [
-      "Helsinki"
-    ],
+    "capital": ["Helsinki"],
     "region": "Europe",
     "languages": {
       "fin": "Finnish",
       "swe": "Swedish"
     },
     "population": 5650325,
-    "timezones": [
-      "UTC+02:00"
-    ]
+    "timezones": ["UTC+02:00"]
   },
   {
     "flags": {
@@ -5931,22 +5174,16 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "37"
-      ]
+      "suffixes": ["37"]
     },
-    "capital": [
-      "Yaoundé"
-    ],
+    "capital": ["Yaoundé"],
     "region": "Africa",
     "languages": {
       "eng": "English",
       "fra": "French"
     },
     "population": 29442327,
-    "timezones": [
-      "UTC+01:00"
-    ]
+    "timezones": ["UTC+01:00"]
   },
   {
     "flags": {
@@ -5973,21 +5210,15 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "46"
-      ]
+      "suffixes": ["46"]
     },
-    "capital": [
-      "Diego Garcia"
-    ],
+    "capital": ["Diego Garcia"],
     "region": "Africa",
     "languages": {
       "eng": "English"
     },
     "population": 0,
-    "timezones": [
-      "UTC+06:00"
-    ]
+    "timezones": ["UTC+06:00"]
   },
   {
     "flags": {
@@ -6014,21 +5245,15 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "58"
-      ]
+      "suffixes": ["58"]
     },
-    "capital": [
-      "Maputo"
-    ],
+    "capital": ["Maputo"],
     "region": "Africa",
     "languages": {
       "por": "Portuguese"
     },
     "population": 34090466,
-    "timezones": [
-      "UTC+02:00"
-    ]
+    "timezones": ["UTC+02:00"]
   },
   {
     "flags": {
@@ -6059,23 +5284,16 @@
     },
     "idd": {
       "root": "+1",
-      "suffixes": [
-        "876",
-        "658"
-      ]
+      "suffixes": ["876", "658"]
     },
-    "capital": [
-      "Kingston"
-    ],
+    "capital": ["Kingston"],
     "region": "Americas",
     "languages": {
       "eng": "English",
       "jam": "Jamaican Patois"
     },
     "population": 2825544,
-    "timezones": [
-      "UTC-05:00"
-    ]
+    "timezones": ["UTC-05:00"]
   },
   {
     "flags": {
@@ -6102,21 +5320,15 @@
     },
     "idd": {
       "root": "+5",
-      "suffixes": [
-        "02"
-      ]
+      "suffixes": ["02"]
     },
-    "capital": [
-      "Guatemala City"
-    ],
+    "capital": ["Guatemala City"],
     "region": "Americas",
     "languages": {
       "spa": "Spanish"
     },
     "population": 18079810,
-    "timezones": [
-      "UTC-06:00"
-    ]
+    "timezones": ["UTC-06:00"]
   },
   {
     "flags": {
@@ -6151,13 +5363,9 @@
     },
     "idd": {
       "root": "+6",
-      "suffixes": [
-        "78"
-      ]
+      "suffixes": ["78"]
     },
-    "capital": [
-      "Port Vila"
-    ],
+    "capital": ["Port Vila"],
     "region": "Oceania",
     "languages": {
       "bis": "Bislama",
@@ -6165,9 +5373,7 @@
       "fra": "French"
     },
     "population": 321409,
-    "timezones": [
-      "UTC+11:00"
-    ]
+    "timezones": ["UTC+11:00"]
   },
   {
     "flags": {
@@ -6194,21 +5400,15 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "26"
-      ]
+      "suffixes": ["26"]
     },
-    "capital": [
-      "Ouagadougou"
-    ],
+    "capital": ["Ouagadougou"],
     "region": "Africa",
     "languages": {
       "fra": "French"
     },
     "population": 24070553,
-    "timezones": [
-      "UTC"
-    ]
+    "timezones": ["UTC"]
   },
   {
     "flags": {
@@ -6235,21 +5435,15 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "24"
-      ]
+      "suffixes": ["24"]
     },
-    "capital": [
-      "Conakry"
-    ],
+    "capital": ["Conakry"],
     "region": "Africa",
     "languages": {
       "fra": "French"
     },
     "population": 14363931,
-    "timezones": [
-      "UTC"
-    ]
+    "timezones": ["UTC"]
   },
   {
     "flags": {
@@ -6276,21 +5470,15 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "51"
-      ]
+      "suffixes": ["51"]
     },
-    "capital": [
-      "Addis Ababa"
-    ],
+    "capital": ["Addis Ababa"],
     "region": "Africa",
     "languages": {
       "amh": "Amharic"
     },
     "population": 111652998,
-    "timezones": [
-      "UTC+03:00"
-    ]
+    "timezones": ["UTC+03:00"]
   },
   {
     "flags": {
@@ -6317,21 +5505,15 @@
     },
     "idd": {
       "root": "+6",
-      "suffixes": [
-        "4"
-      ]
+      "suffixes": ["4"]
     },
-    "capital": [
-      "Adamstown"
-    ],
+    "capital": ["Adamstown"],
     "region": "Oceania",
     "languages": {
       "eng": "English"
     },
     "population": 35,
-    "timezones": [
-      "UTC-08:00"
-    ]
+    "timezones": ["UTC-08:00"]
   },
   {
     "flags": {
@@ -6362,22 +5544,16 @@
     },
     "idd": {
       "root": "+9",
-      "suffixes": [
-        "98"
-      ]
+      "suffixes": ["98"]
     },
-    "capital": [
-      "Tashkent"
-    ],
+    "capital": ["Tashkent"],
     "region": "Asia",
     "languages": {
       "rus": "Russian",
       "uzb": "Uzbek"
     },
     "population": 37859698,
-    "timezones": [
-      "UTC+05:00"
-    ]
+    "timezones": ["UTC+05:00"]
   },
   {
     "flags": {
@@ -6404,21 +5580,15 @@
     },
     "idd": {
       "root": "+4",
-      "suffixes": [
-        "23"
-      ]
+      "suffixes": ["23"]
     },
-    "capital": [
-      "Vaduz"
-    ],
+    "capital": ["Vaduz"],
     "region": "Europe",
     "languages": {
       "deu": "German"
     },
     "population": 40900,
-    "timezones": [
-      "UTC+01:00"
-    ]
+    "timezones": ["UTC+01:00"]
   },
   {
     "flags": {
@@ -6445,21 +5615,15 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "39"
-      ]
+      "suffixes": ["39"]
     },
-    "capital": [
-      "São Tomé"
-    ],
+    "capital": ["São Tomé"],
     "region": "Africa",
     "languages": {
       "por": "Portuguese"
     },
     "population": 209607,
-    "timezones": [
-      "UTC"
-    ]
+    "timezones": ["UTC"]
   },
   {
     "flags": {
@@ -6490,22 +5654,16 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "54"
-      ]
+      "suffixes": ["54"]
     },
-    "capital": [
-      "Nairobi"
-    ],
+    "capital": ["Nairobi"],
     "region": "Africa",
     "languages": {
       "eng": "English",
       "swa": "Swahili"
     },
     "population": 53330978,
-    "timezones": [
-      "UTC+03:00"
-    ]
+    "timezones": ["UTC+03:00"]
   },
   {
     "flags": {
@@ -6540,13 +5698,9 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "40"
-      ]
+      "suffixes": ["40"]
     },
-    "capital": [
-      "Malabo"
-    ],
+    "capital": ["Malabo"],
     "region": "Africa",
     "languages": {
       "fra": "French",
@@ -6554,9 +5708,7 @@
       "spa": "Spanish"
     },
     "population": 1668768,
-    "timezones": [
-      "UTC+01:00"
-    ]
+    "timezones": ["UTC+01:00"]
   },
   {
     "flags": {
@@ -6591,13 +5743,9 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "48"
-      ]
+      "suffixes": ["48"]
     },
-    "capital": [
-      "Victoria"
-    ],
+    "capital": ["Victoria"],
     "region": "Africa",
     "languages": {
       "crs": "Seychellois Creole",
@@ -6605,9 +5753,7 @@
       "fra": "French"
     },
     "population": 122729,
-    "timezones": [
-      "UTC+04:00"
-    ]
+    "timezones": ["UTC+04:00"]
   },
   {
     "flags": {
@@ -6642,13 +5788,9 @@
     },
     "idd": {
       "root": "+9",
-      "suffixes": [
-        "64"
-      ]
+      "suffixes": ["64"]
     },
-    "capital": [
-      "Baghdad"
-    ],
+    "capital": ["Baghdad"],
     "region": "Asia",
     "languages": {
       "ara": "Arabic",
@@ -6656,9 +5798,7 @@
       "ckb": "Sorani"
     },
     "population": 46118793,
-    "timezones": [
-      "UTC+03:00"
-    ]
+    "timezones": ["UTC+03:00"]
   },
   {
     "flags": {
@@ -6689,22 +5829,16 @@
     },
     "idd": {
       "root": "+9",
-      "suffixes": [
-        "2"
-      ]
+      "suffixes": ["2"]
     },
-    "capital": [
-      "Islamabad"
-    ],
+    "capital": ["Islamabad"],
     "region": "Asia",
     "languages": {
       "eng": "English",
       "urd": "Urdu"
     },
     "population": 241499431,
-    "timezones": [
-      "UTC+05:00"
-    ]
+    "timezones": ["UTC+05:00"]
   },
   {
     "flags": {
@@ -6735,22 +5869,16 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "61"
-      ]
+      "suffixes": ["61"]
     },
-    "capital": [
-      "Antananarivo"
-    ],
+    "capital": ["Antananarivo"],
     "region": "Africa",
     "languages": {
       "fra": "French",
       "mlg": "Malagasy"
     },
     "population": 31727042,
-    "timezones": [
-      "UTC+03:00"
-    ]
+    "timezones": ["UTC+03:00"]
   },
   {
     "flags": {
@@ -6777,23 +5905,15 @@
     },
     "idd": {
       "root": "+6",
-      "suffixes": [
-        "2"
-      ]
+      "suffixes": ["2"]
     },
-    "capital": [
-      "Jakarta"
-    ],
+    "capital": ["Jakarta"],
     "region": "Asia",
     "languages": {
       "ind": "Indonesian"
     },
     "population": 284438782,
-    "timezones": [
-      "UTC+07:00",
-      "UTC+08:00",
-      "UTC+09:00"
-    ]
+    "timezones": ["UTC+07:00", "UTC+08:00", "UTC+09:00"]
   },
   {
     "flags": {
@@ -6820,21 +5940,15 @@
     },
     "idd": {
       "root": "+3",
-      "suffixes": [
-        "85"
-      ]
+      "suffixes": ["85"]
     },
-    "capital": [
-      "Zagreb"
-    ],
+    "capital": ["Zagreb"],
     "region": "Europe",
     "languages": {
       "hrv": "Croatian"
     },
     "population": 3866233,
-    "timezones": [
-      "UTC+01:00"
-    ]
+    "timezones": ["UTC+01:00"]
   },
   {
     "flags": {
@@ -6861,21 +5975,15 @@
     },
     "idd": {
       "root": "+3",
-      "suffixes": [
-        "89"
-      ]
+      "suffixes": ["89"]
     },
-    "capital": [
-      "Skopje"
-    ],
+    "capital": ["Skopje"],
     "region": "Europe",
     "languages": {
       "mkd": "Macedonian"
     },
     "population": 1822612,
-    "timezones": [
-      "UTC+01:00"
-    ]
+    "timezones": ["UTC+01:00"]
   },
   {
     "flags": {
@@ -6902,21 +6010,15 @@
     },
     "idd": {
       "root": "+6",
-      "suffixes": [
-        "81"
-      ]
+      "suffixes": ["81"]
     },
-    "capital": [
-      "Mata-Utu"
-    ],
+    "capital": ["Mata-Utu"],
     "region": "Oceania",
     "languages": {
       "fra": "French"
     },
     "population": 11620,
-    "timezones": [
-      "UTC+12:00"
-    ]
+    "timezones": ["UTC+12:00"]
   },
   {
     "flags": {
@@ -6943,21 +6045,15 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "29"
-      ]
+      "suffixes": ["29"]
     },
-    "capital": [
-      "Porto-Novo"
-    ],
+    "capital": ["Porto-Novo"],
     "region": "Africa",
     "languages": {
       "fra": "French"
     },
     "population": 13224860,
-    "timezones": [
-      "UTC+01:00"
-    ]
+    "timezones": ["UTC+01:00"]
   },
   {
     "flags": {
@@ -6988,22 +6084,16 @@
     },
     "idd": {
       "root": "+6",
-      "suffixes": [
-        "74"
-      ]
+      "suffixes": ["74"]
     },
-    "capital": [
-      "Yaren"
-    ],
+    "capital": ["Yaren"],
     "region": "Oceania",
     "languages": {
       "eng": "English",
       "nau": "Nauru"
     },
     "population": 11680,
-    "timezones": [
-      "UTC+12:00"
-    ]
+    "timezones": ["UTC+12:00"]
   },
   {
     "flags": {
@@ -7030,21 +6120,15 @@
     },
     "idd": {
       "root": "+8",
-      "suffixes": [
-        "2"
-      ]
+      "suffixes": ["2"]
     },
-    "capital": [
-      "Seoul"
-    ],
+    "capital": ["Seoul"],
     "region": "Asia",
     "languages": {
       "kor": "Korean"
     },
     "population": 51159889,
-    "timezones": [
-      "UTC+09:00"
-    ]
+    "timezones": ["UTC+09:00"]
   },
   {
     "flags": {
@@ -7071,21 +6155,15 @@
     },
     "idd": {
       "root": "+3",
-      "suffixes": [
-        "0"
-      ]
+      "suffixes": ["0"]
     },
-    "capital": [
-      "Athens"
-    ],
+    "capital": ["Athens"],
     "region": "Europe",
     "languages": {
       "ell": "Greek"
     },
     "population": 10400720,
-    "timezones": [
-      "UTC+02:00"
-    ]
+    "timezones": ["UTC+02:00"]
   },
   {
     "flags": {
@@ -7112,21 +6190,15 @@
     },
     "idd": {
       "root": "+8",
-      "suffixes": [
-        "1"
-      ]
+      "suffixes": ["1"]
     },
-    "capital": [
-      "Tokyo"
-    ],
+    "capital": ["Tokyo"],
     "region": "Asia",
     "languages": {
       "jpn": "Japanese"
     },
     "population": 123210000,
-    "timezones": [
-      "UTC+09:00"
-    ]
+    "timezones": ["UTC+09:00"]
   },
   {
     "flags": {
@@ -7153,21 +6225,15 @@
     },
     "idd": {
       "root": "+8",
-      "suffixes": [
-        "6"
-      ]
+      "suffixes": ["6"]
     },
-    "capital": [
-      "Beijing"
-    ],
+    "capital": ["Beijing"],
     "region": "Asia",
     "languages": {
       "zho": "Chinese"
     },
     "population": 1408280000,
-    "timezones": [
-      "UTC+08:00"
-    ]
+    "timezones": ["UTC+08:00"]
   },
   {
     "flags": {
@@ -7194,21 +6260,15 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "38"
-      ]
+      "suffixes": ["38"]
     },
-    "capital": [
-      "Praia"
-    ],
+    "capital": ["Praia"],
     "region": "Africa",
     "languages": {
       "por": "Portuguese"
     },
     "population": 491233,
-    "timezones": [
-      "UTC-01:00"
-    ]
+    "timezones": ["UTC-01:00"]
   },
   {
     "flags": {
@@ -7235,21 +6295,15 @@
     },
     "idd": {
       "root": "+9",
-      "suffixes": [
-        "63"
-      ]
+      "suffixes": ["63"]
     },
-    "capital": [
-      "Damascus"
-    ],
+    "capital": ["Damascus"],
     "region": "Asia",
     "languages": {
       "ara": "Arabic"
     },
     "population": 25620000,
-    "timezones": [
-      "UTC+02:00"
-    ]
+    "timezones": ["UTC+02:00"]
   },
   {
     "flags": {
@@ -7279,9 +6333,7 @@
       "eng": "English"
     },
     "population": 0,
-    "timezones": [
-      "UTC+05:00"
-    ]
+    "timezones": ["UTC+05:00"]
   },
   {
     "flags": {
@@ -7312,22 +6364,16 @@
     },
     "idd": {
       "root": "+6",
-      "suffixes": [
-        "76"
-      ]
+      "suffixes": ["76"]
     },
-    "capital": [
-      "Nuku'alofa"
-    ],
+    "capital": ["Nuku'alofa"],
     "region": "Oceania",
     "languages": {
       "eng": "English",
       "ton": "Tongan"
     },
     "population": 100179,
-    "timezones": [
-      "UTC+13:00"
-    ]
+    "timezones": ["UTC+13:00"]
   },
   {
     "flags": {
@@ -7358,22 +6404,16 @@
     },
     "idd": {
       "root": "+9",
-      "suffixes": [
-        "96"
-      ]
+      "suffixes": ["96"]
     },
-    "capital": [
-      "Bishkek"
-    ],
+    "capital": ["Bishkek"],
     "region": "Asia",
     "languages": {
       "kir": "Kyrgyz",
       "rus": "Russian"
     },
     "population": 7281800,
-    "timezones": [
-      "UTC+06:00"
-    ]
+    "timezones": ["UTC+06:00"]
   },
   {
     "flags": {
@@ -7400,24 +6440,15 @@
     },
     "idd": {
       "root": "+5",
-      "suffixes": [
-        "5"
-      ]
+      "suffixes": ["5"]
     },
-    "capital": [
-      "Brasília"
-    ],
+    "capital": ["Brasília"],
     "region": "Americas",
     "languages": {
       "por": "Portuguese"
     },
     "population": 213421037,
-    "timezones": [
-      "UTC-05:00",
-      "UTC-04:00",
-      "UTC-03:00",
-      "UTC-02:00"
-    ]
+    "timezones": ["UTC-05:00", "UTC-04:00", "UTC-03:00", "UTC-02:00"]
   },
   {
     "flags": {
@@ -7444,13 +6475,9 @@
     },
     "idd": {
       "root": "+4",
-      "suffixes": [
-        "4"
-      ]
+      "suffixes": ["4"]
     },
-    "capital": [
-      "London"
-    ],
+    "capital": ["London"],
     "region": "Europe",
     "languages": {
       "eng": "English"
@@ -7493,21 +6520,15 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "21"
-      ]
+      "suffixes": ["21"]
     },
-    "capital": [
-      "Dakar"
-    ],
+    "capital": ["Dakar"],
     "region": "Africa",
     "languages": {
       "fra": "French"
     },
     "population": 18593258,
-    "timezones": [
-      "UTC"
-    ]
+    "timezones": ["UTC"]
   },
   {
     "flags": {
@@ -7542,13 +6563,9 @@
     },
     "idd": {
       "root": "+6",
-      "suffixes": [
-        "75"
-      ]
+      "suffixes": ["75"]
     },
-    "capital": [
-      "Port Moresby"
-    ],
+    "capital": ["Port Moresby"],
     "region": "Oceania",
     "languages": {
       "eng": "English",
@@ -7556,9 +6573,7 @@
       "tpi": "Tok Pisin"
     },
     "population": 11781559,
-    "timezones": [
-      "UTC+10:00"
-    ]
+    "timezones": ["UTC+10:00"]
   },
   {
     "flags": {
@@ -7585,21 +6600,15 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "32"
-      ]
+      "suffixes": ["32"]
     },
-    "capital": [
-      "Freetown"
-    ],
+    "capital": ["Freetown"],
     "region": "Africa",
     "languages": {
       "eng": "English"
     },
     "population": 9077691,
-    "timezones": [
-      "UTC"
-    ]
+    "timezones": ["UTC"]
   },
   {
     "flags": {
@@ -7626,21 +6635,15 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "13"
-      ]
+      "suffixes": ["13"]
     },
-    "capital": [
-      "Algiers"
-    ],
+    "capital": ["Algiers"],
     "region": "Africa",
     "languages": {
       "ara": "Arabic"
     },
     "population": 47400000,
-    "timezones": [
-      "UTC+01:00"
-    ]
+    "timezones": ["UTC+01:00"]
   },
   {
     "flags": {
@@ -7667,22 +6670,15 @@
     },
     "idd": {
       "root": "+5",
-      "suffixes": [
-        "6"
-      ]
+      "suffixes": ["6"]
     },
-    "capital": [
-      "Santiago"
-    ],
+    "capital": ["Santiago"],
     "region": "Americas",
     "languages": {
       "spa": "Spanish"
     },
     "population": 20206953,
-    "timezones": [
-      "UTC-06:00",
-      "UTC-04:00"
-    ]
+    "timezones": ["UTC-06:00", "UTC-04:00"]
   },
   {
     "flags": {
@@ -7713,22 +6709,16 @@
     },
     "idd": {
       "root": "+6",
-      "suffixes": [
-        "85"
-      ]
+      "suffixes": ["85"]
     },
-    "capital": [
-      "Apia"
-    ],
+    "capital": ["Apia"],
     "region": "Oceania",
     "languages": {
       "eng": "English",
       "smo": "Samoan"
     },
     "population": 205557,
-    "timezones": [
-      "UTC+13:00"
-    ]
+    "timezones": ["UTC+13:00"]
   },
   {
     "flags": {
@@ -7759,21 +6749,15 @@
     },
     "idd": {
       "root": "+5",
-      "suffixes": [
-        "3"
-      ]
+      "suffixes": ["3"]
     },
-    "capital": [
-      "Havana"
-    ],
+    "capital": ["Havana"],
     "region": "Americas",
     "languages": {
       "spa": "Spanish"
     },
     "population": 9748007,
-    "timezones": [
-      "UTC-05:00"
-    ]
+    "timezones": ["UTC-05:00"]
   },
   {
     "flags": {
@@ -7800,21 +6784,15 @@
     },
     "idd": {
       "root": "+3",
-      "suffixes": [
-        "54"
-      ]
+      "suffixes": ["54"]
     },
-    "capital": [
-      "Reykjavik"
-    ],
+    "capital": ["Reykjavik"],
     "region": "Europe",
     "languages": {
       "isl": "Icelandic"
     },
     "population": 391810,
-    "timezones": [
-      "UTC"
-    ]
+    "timezones": ["UTC"]
   },
   {
     "flags": {
@@ -7841,21 +6819,15 @@
     },
     "idd": {
       "root": "+3",
-      "suffixes": [
-        "71"
-      ]
+      "suffixes": ["71"]
     },
-    "capital": [
-      "Riga"
-    ],
+    "capital": ["Riga"],
     "region": "Europe",
     "languages": {
       "lav": "Latvian"
     },
     "population": 1829000,
-    "timezones": [
-      "UTC+02:00"
-    ]
+    "timezones": ["UTC+02:00"]
   },
   {
     "flags": {
@@ -7886,22 +6858,16 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "65"
-      ]
+      "suffixes": ["65"]
     },
-    "capital": [
-      "Lilongwe"
-    ],
+    "capital": ["Lilongwe"],
     "region": "Africa",
     "languages": {
       "eng": "English",
       "nya": "Chewa"
     },
     "population": 20734262,
-    "timezones": [
-      "UTC+02:00"
-    ]
+    "timezones": ["UTC+02:00"]
   },
   {
     "flags": {
@@ -7932,22 +6898,16 @@
     },
     "idd": {
       "root": "+1",
-      "suffixes": [
-        "684"
-      ]
+      "suffixes": ["684"]
     },
-    "capital": [
-      "Pago Pago"
-    ],
+    "capital": ["Pago Pago"],
     "region": "Oceania",
     "languages": {
       "eng": "English",
       "smo": "Samoan"
     },
     "population": 49710,
-    "timezones": [
-      "UTC-11:00"
-    ]
+    "timezones": ["UTC-11:00"]
   },
   {
     "flags": {
@@ -7978,22 +6938,16 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "57"
-      ]
+      "suffixes": ["57"]
     },
-    "capital": [
-      "Gitega"
-    ],
+    "capital": ["Gitega"],
     "region": "Africa",
     "languages": {
       "fra": "French",
       "run": "Kirundi"
     },
     "population": 12332788,
-    "timezones": [
-      "UTC+02:00"
-    ]
+    "timezones": ["UTC+02:00"]
   },
   {
     "flags": {
@@ -8036,14 +6990,9 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "125288",
-        "125289"
-      ]
+      "suffixes": ["125288", "125289"]
     },
-    "capital": [
-      "El Aaiún"
-    ],
+    "capital": ["El Aaiún"],
     "region": "Africa",
     "languages": {
       "ber": "Berber",
@@ -8051,9 +7000,7 @@
       "spa": "Spanish"
     },
     "population": 600904,
-    "timezones": [
-      "UTC+00:00"
-    ]
+    "timezones": ["UTC+00:00"]
   },
   {
     "flags": {
@@ -8088,13 +7035,9 @@
     },
     "idd": {
       "root": "+1",
-      "suffixes": [
-        "671"
-      ]
+      "suffixes": ["671"]
     },
-    "capital": [
-      "Hagåtña"
-    ],
+    "capital": ["Hagåtña"],
     "region": "Oceania",
     "languages": {
       "cha": "Chamorro",
@@ -8102,9 +7045,7 @@
       "spa": "Spanish"
     },
     "population": 153836,
-    "timezones": [
-      "UTC+10:00"
-    ]
+    "timezones": ["UTC+10:00"]
   },
   {
     "flags": {
@@ -8131,21 +7072,15 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "62"
-      ]
+      "suffixes": ["62"]
     },
-    "capital": [
-      "Mamoudzou"
-    ],
+    "capital": ["Mamoudzou"],
     "region": "Africa",
     "languages": {
       "fra": "French"
     },
     "population": 320901,
-    "timezones": [
-      "UTC+03:00"
-    ]
+    "timezones": ["UTC+03:00"]
   },
   {
     "flags": {
@@ -8176,22 +7111,16 @@
     },
     "idd": {
       "root": "+9",
-      "suffixes": [
-        "92"
-      ]
+      "suffixes": ["92"]
     },
-    "capital": [
-      "Dushanbe"
-    ],
+    "capital": ["Dushanbe"],
     "region": "Asia",
     "languages": {
       "rus": "Russian",
       "tgk": "Tajik"
     },
     "population": 10499000,
-    "timezones": [
-      "UTC+05:00"
-    ]
+    "timezones": ["UTC+05:00"]
   },
   {
     "flags": {
@@ -8218,21 +7147,15 @@
     },
     "idd": {
       "root": "+9",
-      "suffixes": [
-        "73"
-      ]
+      "suffixes": ["73"]
     },
-    "capital": [
-      "Manama"
-    ],
+    "capital": ["Manama"],
     "region": "Asia",
     "languages": {
       "ara": "Arabic"
     },
     "population": 1594654,
-    "timezones": [
-      "UTC+03:00"
-    ]
+    "timezones": ["UTC+03:00"]
   },
   {
     "flags": {
@@ -8267,13 +7190,9 @@
     },
     "idd": {
       "root": "+4",
-      "suffixes": [
-        "7"
-      ]
+      "suffixes": ["7"]
     },
-    "capital": [
-      "Oslo"
-    ],
+    "capital": ["Oslo"],
     "region": "Europe",
     "languages": {
       "nno": "Norwegian Nynorsk",
@@ -8281,9 +7200,7 @@
       "smi": "Sami"
     },
     "population": 5606944,
-    "timezones": [
-      "UTC+01:00"
-    ]
+    "timezones": ["UTC+01:00"]
   },
   {
     "flags": {
@@ -8314,23 +7231,16 @@
     },
     "idd": {
       "root": "+1",
-      "suffixes": [
-        "787",
-        "939"
-      ]
+      "suffixes": ["787", "939"]
     },
-    "capital": [
-      "San Juan"
-    ],
+    "capital": ["San Juan"],
     "region": "Americas",
     "languages": {
       "eng": "English",
       "spa": "Spanish"
     },
     "population": 3203295,
-    "timezones": [
-      "UTC-04:00"
-    ]
+    "timezones": ["UTC-04:00"]
   },
   {
     "flags": {
@@ -8365,13 +7275,9 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "91"
-      ]
+      "suffixes": ["91"]
     },
-    "capital": [
-      "Asmara"
-    ],
+    "capital": ["Asmara"],
     "region": "Africa",
     "languages": {
       "ara": "Arabic",
@@ -8379,9 +7285,7 @@
       "tir": "Tigrinya"
     },
     "population": 3607000,
-    "timezones": [
-      "UTC+03:00"
-    ]
+    "timezones": ["UTC+03:00"]
   },
   {
     "flags": {
@@ -8412,22 +7316,16 @@
     },
     "idd": {
       "root": "+6",
-      "suffixes": [
-        "72"
-      ]
+      "suffixes": ["72"]
     },
-    "capital": [
-      "Kingston"
-    ],
+    "capital": ["Kingston"],
     "region": "Oceania",
     "languages": {
       "eng": "English",
       "pih": "Norfuk"
     },
     "population": 2188,
-    "timezones": [
-      "UTC+11:30"
-    ]
+    "timezones": ["UTC+11:30"]
   },
   {
     "flags": {
@@ -8454,21 +7352,15 @@
     },
     "idd": {
       "root": "+1",
-      "suffixes": [
-        "767"
-      ]
+      "suffixes": ["767"]
     },
-    "capital": [
-      "Roseau"
-    ],
+    "capital": ["Roseau"],
     "region": "Americas",
     "languages": {
       "eng": "English"
     },
     "population": 67408,
-    "timezones": [
-      "UTC-04:00"
-    ]
+    "timezones": ["UTC-04:00"]
   },
   {
     "flags": {
@@ -8507,13 +7399,9 @@
     },
     "idd": {
       "root": "+4",
-      "suffixes": [
-        "4"
-      ]
+      "suffixes": ["4"]
     },
-    "capital": [
-      "St. Peter Port"
-    ],
+    "capital": ["St. Peter Port"],
     "region": "Europe",
     "languages": {
       "eng": "English",
@@ -8521,9 +7409,7 @@
       "nfr": "Guernésiais"
     },
     "population": 64781,
-    "timezones": [
-      "UTC+00:00"
-    ]
+    "timezones": ["UTC+00:00"]
   },
   {
     "flags": {
@@ -8554,13 +7440,9 @@
     },
     "idd": {
       "root": "+5",
-      "suffixes": [
-        "99"
-      ]
+      "suffixes": ["99"]
     },
-    "capital": [
-      "Kralendijk"
-    ],
+    "capital": ["Kralendijk"],
     "region": "Americas",
     "languages": {
       "eng": "English",
@@ -8568,9 +7450,7 @@
       "pap": "Papiamento"
     },
     "population": 31980,
-    "timezones": [
-      "UTC-04:00"
-    ]
+    "timezones": ["UTC-04:00"]
   },
   {
     "flags": {
@@ -8609,13 +7489,9 @@
     },
     "idd": {
       "root": "+4",
-      "suffixes": [
-        "1"
-      ]
+      "suffixes": ["1"]
     },
-    "capital": [
-      "Bern"
-    ],
+    "capital": ["Bern"],
     "region": "Europe",
     "languages": {
       "fra": "French",
@@ -8624,9 +7500,7 @@
       "roh": "Romansh"
     },
     "population": 9082848,
-    "timezones": [
-      "UTC+01:00"
-    ]
+    "timezones": ["UTC+01:00"]
   },
   {
     "flags": {
@@ -8653,21 +7527,15 @@
     },
     "idd": {
       "root": "+9",
-      "suffixes": [
-        "65"
-      ]
+      "suffixes": ["65"]
     },
-    "capital": [
-      "Kuwait City"
-    ],
+    "capital": ["Kuwait City"],
     "region": "Asia",
     "languages": {
       "ara": "Arabic"
     },
     "population": 4881254,
-    "timezones": [
-      "UTC+03:00"
-    ]
+    "timezones": ["UTC+03:00"]
   },
   {
     "flags": {
@@ -8702,13 +7570,9 @@
     },
     "idd": {
       "root": "+9",
-      "suffixes": [
-        "1"
-      ]
+      "suffixes": ["1"]
     },
-    "capital": [
-      "New Delhi"
-    ],
+    "capital": ["New Delhi"],
     "region": "Asia",
     "languages": {
       "eng": "English",
@@ -8716,9 +7580,7 @@
       "tam": "Tamil"
     },
     "population": 1417492000,
-    "timezones": [
-      "UTC+05:30"
-    ]
+    "timezones": ["UTC+05:30"]
   },
   {
     "flags": {
@@ -8745,21 +7607,15 @@
     },
     "idd": {
       "root": "+5",
-      "suffixes": [
-        "03"
-      ]
+      "suffixes": ["03"]
     },
-    "capital": [
-      "San Salvador"
-    ],
+    "capital": ["San Salvador"],
     "region": "Americas",
     "languages": {
       "spa": "Spanish"
     },
     "population": 6029976,
-    "timezones": [
-      "UTC-06:00"
-    ]
+    "timezones": ["UTC-06:00"]
   },
   {
     "flags": {
@@ -8786,21 +7642,15 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "41"
-      ]
+      "suffixes": ["41"]
     },
-    "capital": [
-      "Libreville"
-    ],
+    "capital": ["Libreville"],
     "region": "Africa",
     "languages": {
       "fra": "French"
     },
     "population": 2469296,
-    "timezones": [
-      "UTC+01:00"
-    ]
+    "timezones": ["UTC+01:00"]
   },
   {
     "flags": {
@@ -8831,22 +7681,16 @@
     },
     "idd": {
       "root": "+9",
-      "suffixes": [
-        "4"
-      ]
+      "suffixes": ["4"]
     },
-    "capital": [
-      "Sri Jayawardenepura Kotte"
-    ],
+    "capital": ["Sri Jayawardenepura Kotte"],
     "region": "Asia",
     "languages": {
       "sin": "Sinhala",
       "tam": "Tamil"
     },
     "population": 21763170,
-    "timezones": [
-      "UTC+05:30"
-    ]
+    "timezones": ["UTC+05:30"]
   },
   {
     "flags": {
@@ -8873,22 +7717,15 @@
     },
     "idd": {
       "root": "+3",
-      "suffixes": [
-        "51"
-      ]
+      "suffixes": ["51"]
     },
-    "capital": [
-      "Lisbon"
-    ],
+    "capital": ["Lisbon"],
     "region": "Europe",
     "languages": {
       "por": "Portuguese"
     },
     "population": 10749635,
-    "timezones": [
-      "UTC-01:00",
-      "UTC"
-    ]
+    "timezones": ["UTC-01:00", "UTC"]
   },
   {
     "flags": {
@@ -8915,21 +7752,15 @@
     },
     "idd": {
       "root": "+1",
-      "suffixes": [
-        "284"
-      ]
+      "suffixes": ["284"]
     },
-    "capital": [
-      "Road Town"
-    ],
+    "capital": ["Road Town"],
     "region": "Americas",
     "languages": {
       "eng": "English"
     },
     "population": 39471,
-    "timezones": [
-      "UTC-04:00"
-    ]
+    "timezones": ["UTC-04:00"]
   },
   {
     "flags": {
@@ -8956,21 +7787,15 @@
     },
     "idd": {
       "root": "+9",
-      "suffixes": [
-        "67"
-      ]
+      "suffixes": ["67"]
     },
-    "capital": [
-      "Sana'a"
-    ],
+    "capital": ["Sana'a"],
     "region": "Asia",
     "languages": {
       "ara": "Arabic"
     },
     "population": 32684503,
-    "timezones": [
-      "UTC+03:00"
-    ]
+    "timezones": ["UTC+03:00"]
   },
   {
     "flags": {
@@ -9005,22 +7830,16 @@
     },
     "idd": {
       "root": "+6",
-      "suffixes": [
-        "82"
-      ]
+      "suffixes": ["82"]
     },
-    "capital": [
-      "Avarua"
-    ],
+    "capital": ["Avarua"],
     "region": "Oceania",
     "languages": {
       "eng": "English",
       "rar": "Cook Islands Māori"
     },
     "population": 15040,
-    "timezones": [
-      "UTC-10:00"
-    ]
+    "timezones": ["UTC-10:00"]
   },
   {
     "flags": {
@@ -9047,21 +7866,15 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "16"
-      ]
+      "suffixes": ["16"]
     },
-    "capital": [
-      "Tunis"
-    ],
+    "capital": ["Tunis"],
     "region": "Africa",
     "languages": {
       "ara": "Arabic"
     },
     "population": 11972169,
-    "timezones": [
-      "UTC+01:00"
-    ]
+    "timezones": ["UTC+01:00"]
   },
   {
     "flags": {
@@ -9092,22 +7905,16 @@
     },
     "idd": {
       "root": "+6",
-      "suffixes": [
-        "3"
-      ]
+      "suffixes": ["3"]
     },
-    "capital": [
-      "Manila"
-    ],
+    "capital": ["Manila"],
     "region": "Asia",
     "languages": {
       "eng": "English",
       "fil": "Filipino"
     },
     "population": 114123600,
-    "timezones": [
-      "UTC+08:00"
-    ]
+    "timezones": ["UTC+08:00"]
   },
   {
     "flags": {
@@ -9138,21 +7945,15 @@
     },
     "idd": {
       "root": "+5",
-      "suffixes": [
-        "07"
-      ]
+      "suffixes": ["07"]
     },
-    "capital": [
-      "Panama City"
-    ],
+    "capital": ["Panama City"],
     "region": "Americas",
     "languages": {
       "spa": "Spanish"
     },
     "population": 4064780,
-    "timezones": [
-      "UTC-05:00"
-    ]
+    "timezones": ["UTC-05:00"]
   },
   {
     "flags": {
@@ -9179,21 +7980,15 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "60"
-      ]
+      "suffixes": ["60"]
     },
-    "capital": [
-      "Lusaka"
-    ],
+    "capital": ["Lusaka"],
     "region": "Africa",
     "languages": {
       "eng": "English"
     },
     "population": 19693423,
-    "timezones": [
-      "UTC+02:00"
-    ]
+    "timezones": ["UTC+02:00"]
   },
   {
     "flags": {
@@ -9256,13 +8051,9 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "64"
-      ]
+      "suffixes": ["64"]
     },
-    "capital": [
-      "Windhoek"
-    ],
+    "capital": ["Windhoek"],
     "region": "Africa",
     "languages": {
       "afr": "Afrikaans",
@@ -9276,9 +8067,7 @@
       "tsn": "Tswana"
     },
     "population": 3022401,
-    "timezones": [
-      "UTC+01:00"
-    ]
+    "timezones": ["UTC+01:00"]
   },
   {
     "flags": {
@@ -9305,21 +8094,15 @@
     },
     "idd": {
       "root": "+8",
-      "suffixes": [
-        "80"
-      ]
+      "suffixes": ["80"]
     },
-    "capital": [
-      "Dhaka"
-    ],
+    "capital": ["Dhaka"],
     "region": "Asia",
     "languages": {
       "ben": "Bengali"
     },
     "population": 169828911,
-    "timezones": [
-      "UTC+06:00"
-    ]
+    "timezones": ["UTC+06:00"]
   },
   {
     "flags": {
@@ -9350,9 +8133,7 @@
     },
     "idd": {
       "root": "+8",
-      "suffixes": [
-        "53"
-      ]
+      "suffixes": ["53"]
     },
     "capital": [],
     "region": "Asia",
@@ -9361,9 +8142,7 @@
       "zho": "Chinese"
     },
     "population": 685900,
-    "timezones": [
-      "UTC+08:00"
-    ]
+    "timezones": ["UTC+08:00"]
   },
   {
     "flags": {
@@ -9390,21 +8169,15 @@
     },
     "idd": {
       "root": "+9",
-      "suffixes": [
-        "68"
-      ]
+      "suffixes": ["68"]
     },
-    "capital": [
-      "Muscat"
-    ],
+    "capital": ["Muscat"],
     "region": "Asia",
     "languages": {
       "ara": "Arabic"
     },
     "population": 5343630,
-    "timezones": [
-      "UTC+04:00"
-    ]
+    "timezones": ["UTC+04:00"]
   },
   {
     "flags": {
@@ -9439,13 +8212,9 @@
     },
     "idd": {
       "root": "+3",
-      "suffixes": [
-        "87"
-      ]
+      "suffixes": ["87"]
     },
-    "capital": [
-      "Sarajevo"
-    ],
+    "capital": ["Sarajevo"],
     "region": "Europe",
     "languages": {
       "bos": "Bosnian",
@@ -9453,9 +8222,7 @@
       "srp": "Serbian"
     },
     "population": 3422000,
-    "timezones": [
-      "UTC+01:00"
-    ]
+    "timezones": ["UTC+01:00"]
   },
   {
     "flags": {
@@ -9482,21 +8249,15 @@
     },
     "idd": {
       "root": "+5",
-      "suffixes": [
-        "08"
-      ]
+      "suffixes": ["08"]
     },
-    "capital": [
-      "Saint-Pierre"
-    ],
+    "capital": ["Saint-Pierre"],
     "region": "Americas",
     "languages": {
       "fra": "French"
     },
     "population": 5819,
-    "timezones": [
-      "UTC-03:00"
-    ]
+    "timezones": ["UTC-03:00"]
   },
   {
     "flags": {
@@ -9523,21 +8284,15 @@
     },
     "idd": {
       "root": "+5",
-      "suffixes": [
-        "00"
-      ]
+      "suffixes": ["00"]
     },
-    "capital": [
-      "Stanley"
-    ],
+    "capital": ["Stanley"],
     "region": "Americas",
     "languages": {
       "eng": "English"
     },
     "population": 3662,
-    "timezones": [
-      "UTC-04:00"
-    ]
+    "timezones": ["UTC-04:00"]
   },
   {
     "flags": {
@@ -9564,13 +8319,9 @@
     },
     "idd": {
       "root": "+6",
-      "suffixes": [
-        "1"
-      ]
+      "suffixes": ["1"]
     },
-    "capital": [
-      "Canberra"
-    ],
+    "capital": ["Canberra"],
     "region": "Oceania",
     "languages": {
       "eng": "English"
@@ -9620,13 +8371,9 @@
     },
     "idd": {
       "root": "+6",
-      "suffixes": [
-        "90"
-      ]
+      "suffixes": ["90"]
     },
-    "capital": [
-      "Fakaofo"
-    ],
+    "capital": ["Fakaofo"],
     "region": "Oceania",
     "languages": {
       "eng": "English",
@@ -9634,9 +8381,7 @@
       "tkl": "Tokelauan"
     },
     "population": 2608,
-    "timezones": [
-      "UTC+13:00"
-    ]
+    "timezones": ["UTC+13:00"]
   },
   {
     "flags": {
@@ -9671,22 +8416,15 @@
     },
     "idd": {
       "root": "+9",
-      "suffixes": [
-        "70"
-      ]
+      "suffixes": ["70"]
     },
-    "capital": [
-      "Ramallah",
-      "Jerusalem"
-    ],
+    "capital": ["Ramallah", "Jerusalem"],
     "region": "Asia",
     "languages": {
       "ara": "Arabic"
     },
     "population": 5483450,
-    "timezones": [
-      "UTC+02:00"
-    ]
+    "timezones": ["UTC+02:00"]
   },
   {
     "flags": {
@@ -9713,21 +8451,15 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "0"
-      ]
+      "suffixes": ["0"]
     },
-    "capital": [
-      "Cairo"
-    ],
+    "capital": ["Cairo"],
     "region": "Africa",
     "languages": {
       "ara": "Arabic"
     },
     "population": 107271260,
-    "timezones": [
-      "UTC+02:00"
-    ]
+    "timezones": ["UTC+02:00"]
   },
   {
     "flags": {
@@ -9766,13 +8498,9 @@
     },
     "idd": {
       "root": "+6",
-      "suffixes": [
-        "5"
-      ]
+      "suffixes": ["5"]
     },
-    "capital": [
-      "Singapore"
-    ],
+    "capital": ["Singapore"],
     "region": "Asia",
     "languages": {
       "eng": "English",
@@ -9781,9 +8509,7 @@
       "tam": "Tamil"
     },
     "population": 6110200,
-    "timezones": [
-      "UTC+08:00"
-    ]
+    "timezones": ["UTC+08:00"]
   },
   {
     "flags": {
@@ -9810,21 +8536,15 @@
     },
     "idd": {
       "root": "+3",
-      "suffixes": [
-        "86"
-      ]
+      "suffixes": ["86"]
     },
-    "capital": [
-      "Ljubljana"
-    ],
+    "capital": ["Ljubljana"],
     "region": "Europe",
     "languages": {
       "slv": "Slovene"
     },
     "population": 2130638,
-    "timezones": [
-      "UTC+01:00"
-    ]
+    "timezones": ["UTC+01:00"]
   },
   {
     "flags": {
@@ -9851,21 +8571,15 @@
     },
     "idd": {
       "root": "+6",
-      "suffixes": [
-        "1"
-      ]
+      "suffixes": ["1"]
     },
-    "capital": [
-      "West Island"
-    ],
+    "capital": ["West Island"],
     "region": "Oceania",
     "languages": {
       "eng": "English"
     },
     "population": 593,
-    "timezones": [
-      "UTC+06:30"
-    ]
+    "timezones": ["UTC+06:30"]
   },
   {
     "flags": {
@@ -9896,22 +8610,16 @@
     },
     "idd": {
       "root": "+8",
-      "suffixes": [
-        "52"
-      ]
+      "suffixes": ["52"]
     },
-    "capital": [
-      "City of Victoria"
-    ],
+    "capital": ["City of Victoria"],
     "region": "Asia",
     "languages": {
       "eng": "English",
       "zho": "Chinese"
     },
     "population": 7527500,
-    "timezones": [
-      "UTC+08:00"
-    ]
+    "timezones": ["UTC+08:00"]
   },
   {
     "flags": {
@@ -9942,22 +8650,16 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "97"
-      ]
+      "suffixes": ["97"]
     },
-    "capital": [
-      "Oranjestad"
-    ],
+    "capital": ["Oranjestad"],
     "region": "Americas",
     "languages": {
       "nld": "Dutch",
       "pap": "Papiamento"
     },
     "population": 107566,
-    "timezones": [
-      "UTC-04:00"
-    ]
+    "timezones": ["UTC-04:00"]
   },
   {
     "flags": {
@@ -9988,22 +8690,16 @@
     },
     "idd": {
       "root": "+6",
-      "suffixes": [
-        "92"
-      ]
+      "suffixes": ["92"]
     },
-    "capital": [
-      "Majuro"
-    ],
+    "capital": ["Majuro"],
     "region": "Oceania",
     "languages": {
       "eng": "English",
       "mah": "Marshallese"
     },
     "population": 42418,
-    "timezones": [
-      "UTC+12:00"
-    ]
+    "timezones": ["UTC+12:00"]
   },
   {
     "flags": {
@@ -10030,21 +8726,15 @@
     },
     "idd": {
       "root": "+5",
-      "suffixes": [
-        "7"
-      ]
+      "suffixes": ["7"]
     },
-    "capital": [
-      "Bogotá"
-    ],
+    "capital": ["Bogotá"],
     "region": "Americas",
     "languages": {
       "spa": "Spanish"
     },
     "population": 53057212,
-    "timezones": [
-      "UTC-05:00"
-    ]
+    "timezones": ["UTC-05:00"]
   },
   {
     "flags": {
@@ -10071,21 +8761,15 @@
     },
     "idd": {
       "root": "+3",
-      "suffixes": [
-        "82"
-      ]
+      "suffixes": ["82"]
     },
-    "capital": [
-      "Podgorica"
-    ],
+    "capital": ["Podgorica"],
     "region": "Europe",
     "languages": {
       "cnr": "Montenegrin"
     },
     "population": 623327,
-    "timezones": [
-      "UTC+01:00"
-    ]
+    "timezones": ["UTC+01:00"]
   },
   {
     "flags": {
@@ -10112,21 +8796,15 @@
     },
     "idd": {
       "root": "+3",
-      "suffixes": [
-        "6"
-      ]
+      "suffixes": ["6"]
     },
-    "capital": [
-      "Budapest"
-    ],
+    "capital": ["Budapest"],
     "region": "Europe",
     "languages": {
       "hun": "Hungarian"
     },
     "population": 9539502,
-    "timezones": [
-      "UTC+01:00"
-    ]
+    "timezones": ["UTC+01:00"]
   },
   {
     "flags": {
@@ -10153,22 +8831,15 @@
     },
     "idd": {
       "root": "+9",
-      "suffixes": [
-        "76"
-      ]
+      "suffixes": ["76"]
     },
-    "capital": [
-      "Ulan Bator"
-    ],
+    "capital": ["Ulan Bator"],
     "region": "Asia",
     "languages": {
       "mon": "Mongolian"
     },
     "population": 3544835,
-    "timezones": [
-      "UTC+07:00",
-      "UTC+08:00"
-    ]
+    "timezones": ["UTC+07:00", "UTC+08:00"]
   },
   {
     "flags": {
@@ -10195,22 +8866,15 @@
     },
     "idd": {
       "root": "+5",
-      "suffixes": [
-        "93"
-      ]
+      "suffixes": ["93"]
     },
-    "capital": [
-      "Quito"
-    ],
+    "capital": ["Quito"],
     "region": "Americas",
     "languages": {
       "spa": "Spanish"
     },
     "population": 18103660,
-    "timezones": [
-      "UTC-06:00",
-      "UTC-05:00"
-    ]
+    "timezones": ["UTC-06:00", "UTC-05:00"]
   },
   {
     "flags": {
@@ -10237,21 +8901,15 @@
     },
     "idd": {
       "root": "+5",
-      "suffixes": [
-        "94"
-      ]
+      "suffixes": ["94"]
     },
-    "capital": [
-      "Cayenne"
-    ],
+    "capital": ["Cayenne"],
     "region": "Americas",
     "languages": {
       "fra": "French"
     },
     "population": 292354,
-    "timezones": [
-      "UTC-03:00"
-    ]
+    "timezones": ["UTC-03:00"]
   },
   {
     "flags": {
@@ -10278,21 +8936,15 @@
     },
     "idd": {
       "root": "+1",
-      "suffixes": [
-        "784"
-      ]
+      "suffixes": ["784"]
     },
-    "capital": [
-      "Kingstown"
-    ],
+    "capital": ["Kingstown"],
     "region": "Americas",
     "languages": {
       "eng": "English"
     },
     "population": 110872,
-    "timezones": [
-      "UTC-04:00"
-    ]
+    "timezones": ["UTC-04:00"]
   },
   {
     "flags": {
@@ -10327,13 +8979,9 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "69"
-      ]
+      "suffixes": ["69"]
     },
-    "capital": [
-      "Moroni"
-    ],
+    "capital": ["Moroni"],
     "region": "Africa",
     "languages": {
       "ara": "Arabic",
@@ -10341,9 +8989,7 @@
       "zdj": "Comorian"
     },
     "population": 919901,
-    "timezones": [
-      "UTC+03:00"
-    ]
+    "timezones": ["UTC+03:00"]
   },
   {
     "flags": {
@@ -10370,23 +9016,15 @@
     },
     "idd": {
       "root": "+1",
-      "suffixes": [
-        "809",
-        "829",
-        "849"
-      ]
+      "suffixes": ["809", "829", "849"]
     },
-    "capital": [
-      "Santo Domingo"
-    ],
+    "capital": ["Santo Domingo"],
     "region": "Americas",
     "languages": {
       "spa": "Spanish"
     },
     "population": 10771504,
-    "timezones": [
-      "UTC-04:00"
-    ]
+    "timezones": ["UTC-04:00"]
   },
   {
     "flags": {
@@ -10421,13 +9059,9 @@
     },
     "idd": {
       "root": "+1",
-      "suffixes": [
-        "721"
-      ]
+      "suffixes": ["721"]
     },
-    "capital": [
-      "Philipsburg"
-    ],
+    "capital": ["Philipsburg"],
     "region": "Americas",
     "languages": {
       "eng": "English",
@@ -10435,9 +9069,7 @@
       "nld": "Dutch"
     },
     "population": 41349,
-    "timezones": [
-      "UTC-04:00"
-    ]
+    "timezones": ["UTC-04:00"]
   },
   {
     "flags": {
@@ -10464,21 +9096,15 @@
     },
     "idd": {
       "root": "+1",
-      "suffixes": [
-        "869"
-      ]
+      "suffixes": ["869"]
     },
-    "capital": [
-      "Basseterre"
-    ],
+    "capital": ["Basseterre"],
     "region": "Americas",
     "languages": {
       "eng": "English"
     },
     "population": 51320,
-    "timezones": [
-      "UTC-04:00"
-    ]
+    "timezones": ["UTC-04:00"]
   },
   {
     "flags": {
@@ -10513,13 +9139,9 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "42"
-      ]
+      "suffixes": ["42"]
     },
-    "capital": [
-      "Brazzaville"
-    ],
+    "capital": ["Brazzaville"],
     "region": "Africa",
     "languages": {
       "fra": "French",
@@ -10527,9 +9149,7 @@
       "lin": "Lingala"
     },
     "population": 6142180,
-    "timezones": [
-      "UTC+01:00"
-    ]
+    "timezones": ["UTC+01:00"]
   },
   {
     "flags": {
@@ -10556,21 +9176,15 @@
     },
     "idd": {
       "root": "+4",
-      "suffixes": [
-        "21"
-      ]
+      "suffixes": ["21"]
     },
-    "capital": [
-      "Bratislava"
-    ],
+    "capital": ["Bratislava"],
     "region": "Europe",
     "languages": {
       "slk": "Slovak"
     },
     "population": 5413813,
-    "timezones": [
-      "UTC+01:00"
-    ]
+    "timezones": ["UTC+01:00"]
   },
   {
     "flags": {
@@ -10601,22 +9215,16 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "49"
-      ]
+      "suffixes": ["49"]
     },
-    "capital": [
-      "Khartoum"
-    ],
+    "capital": ["Khartoum"],
     "region": "Africa",
     "languages": {
       "ara": "Arabic",
       "eng": "English"
     },
     "population": 51662000,
-    "timezones": [
-      "UTC+03:00"
-    ]
+    "timezones": ["UTC+03:00"]
   },
   {
     "flags": {
@@ -10643,21 +9251,15 @@
     },
     "idd": {
       "root": "+9",
-      "suffixes": [
-        "0"
-      ]
+      "suffixes": ["0"]
     },
-    "capital": [
-      "Ankara"
-    ],
+    "capital": ["Ankara"],
     "region": "Asia",
     "languages": {
       "tur": "Turkish"
     },
     "population": 85664944,
-    "timezones": [
-      "UTC+03:00"
-    ]
+    "timezones": ["UTC+03:00"]
   },
   {
     "flags": {
@@ -10684,21 +9286,15 @@
     },
     "idd": {
       "root": "+5",
-      "suffixes": [
-        "97"
-      ]
+      "suffixes": ["97"]
     },
-    "capital": [
-      "Paramaribo"
-    ],
+    "capital": ["Paramaribo"],
     "region": "Americas",
     "languages": {
       "nld": "Dutch"
     },
     "population": 616500,
-    "timezones": [
-      "UTC-03:00"
-    ]
+    "timezones": ["UTC-03:00"]
   },
   {
     "flags": {
@@ -10733,13 +9329,9 @@
     },
     "idd": {
       "root": "+3",
-      "suffixes": [
-        "52"
-      ]
+      "suffixes": ["52"]
     },
-    "capital": [
-      "Luxembourg"
-    ],
+    "capital": ["Luxembourg"],
     "region": "Europe",
     "languages": {
       "deu": "German",
@@ -10747,9 +9339,7 @@
       "ltz": "Luxembourgish"
     },
     "population": 681973,
-    "timezones": [
-      "UTC+01:00"
-    ]
+    "timezones": ["UTC+01:00"]
   },
   {
     "flags": {
@@ -10784,22 +9374,16 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "66"
-      ]
+      "suffixes": ["66"]
     },
-    "capital": [
-      "Maseru"
-    ],
+    "capital": ["Maseru"],
     "region": "Africa",
     "languages": {
       "eng": "English",
       "sot": "Sotho"
     },
     "population": 2116427,
-    "timezones": [
-      "UTC+02:00"
-    ]
+    "timezones": ["UTC+02:00"]
   },
   {
     "flags": {
@@ -10826,24 +9410,15 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "99"
-      ]
+      "suffixes": ["99"]
     },
-    "capital": [
-      "Nuuk"
-    ],
+    "capital": ["Nuuk"],
     "region": "Americas",
     "languages": {
       "kal": "Greenlandic"
     },
     "population": 56542,
-    "timezones": [
-      "UTC-04:00",
-      "UTC-03:00",
-      "UTC-01:00",
-      "UTC+00:00"
-    ]
+    "timezones": ["UTC-04:00", "UTC-03:00", "UTC-01:00", "UTC+00:00"]
   },
   {
     "flags": {
@@ -10874,22 +9449,16 @@
     },
     "idd": {
       "root": "+9",
-      "suffixes": [
-        "93"
-      ]
+      "suffixes": ["93"]
     },
-    "capital": [
-      "Ashgabat"
-    ],
+    "capital": ["Ashgabat"],
     "region": "Asia",
     "languages": {
       "rus": "Russian",
       "tuk": "Turkmen"
     },
     "population": 7057841,
-    "timezones": [
-      "UTC+05:00"
-    ]
+    "timezones": ["UTC+05:00"]
   },
   {
     "flags": {
@@ -10924,13 +9493,9 @@
     },
     "idd": {
       "root": "+6",
-      "suffixes": [
-        "4"
-      ]
+      "suffixes": ["4"]
     },
-    "capital": [
-      "Wellington"
-    ],
+    "capital": ["Wellington"],
     "region": "Oceania",
     "languages": {
       "eng": "English",
@@ -10975,22 +9540,16 @@
     },
     "idd": {
       "root": "+9",
-      "suffixes": [
-        "61"
-      ]
+      "suffixes": ["61"]
     },
-    "capital": [
-      "Beirut"
-    ],
+    "capital": ["Beirut"],
     "region": "Asia",
     "languages": {
       "ara": "Arabic",
       "fra": "French"
     },
     "population": 5490000,
-    "timezones": [
-      "UTC+02:00"
-    ]
+    "timezones": ["UTC+02:00"]
   },
   {
     "flags": {
@@ -11021,22 +9580,16 @@
     },
     "idd": {
       "root": "+3",
-      "suffixes": [
-        "53"
-      ]
+      "suffixes": ["53"]
     },
-    "capital": [
-      "Dublin"
-    ],
+    "capital": ["Dublin"],
     "region": "Europe",
     "languages": {
       "eng": "English",
       "gle": "Irish"
     },
     "population": 5458600,
-    "timezones": [
-      "UTC"
-    ]
+    "timezones": ["UTC"]
   },
   {
     "flags": {
@@ -11063,21 +9616,15 @@
     },
     "idd": {
       "root": "+2",
-      "suffixes": [
-        "11"
-      ]
+      "suffixes": ["11"]
     },
-    "capital": [
-      "Juba"
-    ],
+    "capital": ["Juba"],
     "region": "Africa",
     "languages": {
       "eng": "English"
     },
     "population": 15786898,
-    "timezones": [
-      "UTC+03:00"
-    ]
+    "timezones": ["UTC+03:00"]
   },
   {
     "flags": {
@@ -11116,13 +9663,9 @@
     },
     "idd": {
       "root": "+5",
-      "suffixes": [
-        "91"
-      ]
+      "suffixes": ["91"]
     },
-    "capital": [
-      "Sucre"
-    ],
+    "capital": ["Sucre"],
     "region": "Americas",
     "languages": {
       "aym": "Aymara",
@@ -11131,9 +9674,7 @@
       "spa": "Spanish"
     },
     "population": 11365333,
-    "timezones": [
-      "UTC-04:00"
-    ]
+    "timezones": ["UTC-04:00"]
   },
   {
     "flags": {
@@ -11160,21 +9701,15 @@
     },
     "idd": {
       "root": "+3",
-      "suffixes": [
-        "5818"
-      ]
+      "suffixes": ["5818"]
     },
-    "capital": [
-      "Mariehamn"
-    ],
+    "capital": ["Mariehamn"],
     "region": "Europe",
     "languages": {
       "swe": "Swedish"
     },
     "population": 30654,
-    "timezones": [
-      "UTC+02:00"
-    ]
+    "timezones": ["UTC+02:00"]
   },
   {
     "flags": {
@@ -11209,13 +9744,9 @@
     },
     "idd": {
       "root": "+3",
-      "suffixes": [
-        "2"
-      ]
+      "suffixes": ["2"]
     },
-    "capital": [
-      "Brussels"
-    ],
+    "capital": ["Brussels"],
     "region": "Europe",
     "languages": {
       "deu": "German",
@@ -11223,9 +9754,7 @@
       "nld": "Dutch"
     },
     "population": 11825551,
-    "timezones": [
-      "UTC+01:00"
-    ]
+    "timezones": ["UTC+01:00"]
   },
   {
     "flags": {
@@ -11252,21 +9781,15 @@
     },
     "idd": {
       "root": "+1",
-      "suffixes": [
-        "340"
-      ]
+      "suffixes": ["340"]
     },
-    "capital": [
-      "Charlotte Amalie"
-    ],
+    "capital": ["Charlotte Amalie"],
     "region": "Americas",
     "languages": {
       "eng": "English"
     },
     "population": 87146,
-    "timezones": [
-      "UTC-04:00"
-    ]
+    "timezones": ["UTC-04:00"]
   },
   {
     "flags": {
@@ -11293,21 +9816,15 @@
     },
     "idd": {
       "root": "+8",
-      "suffixes": [
-        "50"
-      ]
+      "suffixes": ["50"]
     },
-    "capital": [
-      "Pyongyang"
-    ],
+    "capital": ["Pyongyang"],
     "region": "Asia",
     "languages": {
       "kor": "Korean"
     },
     "population": 25950000,
-    "timezones": [
-      "UTC+09:00"
-    ]
+    "timezones": ["UTC+09:00"]
   },
   {
     "flags": {
@@ -11342,13 +9859,9 @@
     },
     "idd": {
       "root": "+5",
-      "suffixes": [
-        "01"
-      ]
+      "suffixes": ["01"]
     },
-    "capital": [
-      "Belmopan"
-    ],
+    "capital": ["Belmopan"],
     "region": "Americas",
     "languages": {
       "bjz": "Belizean Creole",
@@ -11356,9 +9869,7 @@
       "spa": "Spanish"
     },
     "population": 417634,
-    "timezones": [
-      "UTC-06:00"
-    ]
+    "timezones": ["UTC-06:00"]
   },
   {
     "flags": {
@@ -11389,22 +9900,16 @@
     },
     "idd": {
       "root": "+4",
-      "suffixes": [
-        "20"
-      ]
+      "suffixes": ["20"]
     },
-    "capital": [
-      "Prague"
-    ],
+    "capital": ["Prague"],
     "region": "Europe",
     "languages": {
       "ces": "Czech",
       "slk": "Slovak"
     },
     "population": 10882341,
-    "timezones": [
-      "UTC+01:00"
-    ]
+    "timezones": ["UTC+01:00"]
   },
   {
     "flags": {
@@ -11431,21 +9936,15 @@
     },
     "idd": {
       "root": "+1",
-      "suffixes": [
-        "345"
-      ]
+      "suffixes": ["345"]
     },
-    "capital": [
-      "George Town"
-    ],
+    "capital": ["George Town"],
     "region": "Americas",
     "languages": {
       "eng": "English"
     },
     "population": 84738,
-    "timezones": [
-      "UTC-05:00"
-    ]
+    "timezones": ["UTC-05:00"]
   },
   {
     "flags": {
@@ -11472,22 +9971,16 @@
     },
     "idd": {
       "root": "+3",
-      "suffixes": [
-        "9"
-      ]
+      "suffixes": ["9"]
     },
-    "capital": [
-      "Rome"
-    ],
+    "capital": ["Rome"],
     "region": "Europe",
     "languages": {
       "ita": "Italian",
       "cat": "Catalan"
     },
     "population": 58927633,
-    "timezones": [
-      "UTC+01:00"
-    ]
+    "timezones": ["UTC+01:00"]
   },
   {
     "flags": {
@@ -11514,20 +10007,14 @@
     },
     "idd": {
       "root": "+3",
-      "suffixes": [
-        "55"
-      ]
+      "suffixes": ["55"]
     },
-    "capital": [
-      "Tirana"
-    ],
+    "capital": ["Tirana"],
     "region": "Europe",
     "languages": {
       "sqi": "Albanian"
     },
     "population": 2363314,
-    "timezones": [
-      "UTC+01:00"
-    ]
+    "timezones": ["UTC+01:00"]
   }
 ]
