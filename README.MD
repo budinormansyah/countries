@@ -51,7 +51,7 @@ Since this project uses a remote API call (`fetch()`), you must run the file usi
 | :-------------------- | :------------------------------------------------------------------------------------------------------------------ |
 | **Frontend**          | Pure HTML, CSS, and Vanilla JavaScript (ES6+).                                                                      |
 | **Styling**           | Utilizes **CSS Grid** for the main card layout and **CSS Flexbox** for navigation and the perfectly centered modal. |
-| **Data Source**       | REST Countries API (`https://restcountries.com/v3.1/all`).                                                          |
+| **Data Source**       | REST Countries API (`https://restcountries.com/v3.1/all`). Or from local JSON file (countries.json)                 |
 | **Key Functionality** | Asynchronous `fetch` calls, dynamic DOM manipulation, and efficient filtering logic.                                |
 
 ### Data Endpoint Used
