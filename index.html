@@ -1,0 +1,479 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Country Flag</title>
+    
+    <style>
+        /* --- Color Palettes ---
+        Primary Accent: #175676 (Deep Blue)
+        Background: #EBEFF2 (Soft Gray)
+        Text: #444444
+        Currency: #779B5D (Soft Green)
+        -------------------------- */
+
+        /* --- SEARCH BAR STICKY --- */
+        .header {
+            background-color: #FFFFFF;
+            padding: 20px;
+            position: sticky; 
+            top: 0; 
+            z-index: 99; 
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .main-content-wrapper { 
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px; 
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0; 
+            background-color: #EBEFF2;
+        }
+
+        h1 {
+            text-align: center;
+            color: #175676;
+            margin-bottom: 20px;
+            font-weight: 600;
+        }
+        
+        #search-input {
+            width: 100%;
+            padding: 12px 15px;
+            margin-bottom: 0; 
+            border: 1px solid #C4D3DF;
+            border-radius: 8px;
+            box-sizing: border-box;
+            font-size: 1em;
+            transition: border-color 0.3s, box-shadow 0.3s;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+        }
+        #search-input:focus {
+            border-color: #175676;
+            box-shadow: 0 0 0 3px rgba(23, 86, 118, 0.2);
+            outline: none;
+        }
+        
+        .loading-indicator {
+            text-align: center;
+            grid-column: 1 / -1;
+            padding: 50px 0;
+            color: #444444; 
+            font-size: 1.2em;
+        }
+
+        /* Grid Adaptif */
+        .card-view {
+            display: grid; 
+            gap: 20px;
+            padding: 20px 0;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+        }
+        
+        .card {
+            background-color: #FFFFFF;
+            border-radius: 12px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            box-sizing: border-box; 
+            cursor: pointer;
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 15px rgba(0, 0, 0, 0.15);
+        }
+
+        .card-header {
+            display: flex;
+            align-items: center;
+            margin-bottom: 15px;
+            border-bottom: 1px solid #E4E7E9;
+            padding-bottom: 10px;
+        }
+
+        .flag-img {
+            width: 45px;
+            height: 30px; 
+            border: 1px solid #ccc;
+            border-radius: 3px;
+            margin-right: 15px;
+            flex-shrink: 0; 
+        }
+
+        .country-name {
+            font-size: 1.2em;
+            font-weight: 700;
+            color: #175676;
+            flex-grow: 1;
+        }
+
+        .country-code {
+            font-size: 0.9em; 
+            color: #8A99A8;
+        }
+
+        .detail-item {
+            display: flex;
+            align-items: center;
+            margin-top: 8px;
+            font-size: 1em;
+            color: #444444;
+        }
+        
+        .currency-symbol {
+            font-weight: bold;
+            color: #779B5D;
+            margin-right: 5px;
+        }
+
+        /* --- MODAL (POPUP) --- */
+        .modal {
+            display: none; 
+            position: fixed; 
+            z-index: 1000; 
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            overflow-y: auto; 
+            background-color: rgba(0, 0, 0, 0.7);
+            align-items: center; 
+            justify-content: center; 
+        }
+
+        .modal-content {
+            background-color: #FFFFFF;
+            padding: 30px;
+            border-radius: 12px;
+            width: 90%; 
+            max-width: 650px; 
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.4);
+            position: relative;
+            animation: fadeIn 0.3s;
+        }
+
+        .close-btn {
+            color: #444444;
+            float: right;
+            font-size: 32px;
+            font-weight: normal;
+            cursor: pointer;
+            transition: color 0.2s;
+        }
+        .close-btn:hover,
+        .close-btn:focus {
+            color: #175676;
+        }
+
+        /* Header Detail Modal */
+        .modal-header {
+            display: flex;
+            align-items: center;
+            margin-bottom: 25px;
+            border-bottom: 3px solid #175676;
+            padding-bottom: 15px;
+        }
+
+        .modal-header .flag-img {
+            width: 70px;
+            height: 47px;
+            margin-right: 20px;
+        }
+
+        .modal-header h2 {
+            margin: 0;
+            color: #175676;
+            font-size: 2em;
+            font-weight: 700;
+        }
+
+        .modal-detail-item {
+            padding: 10px 0;
+            border-bottom: 1px dotted #DDE0E2;
+            display: flex;
+            align-items: center;
+            font-size: 1.1em;
+        }
+
+        /* Animation */
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(-30px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        /* Responsive for small screen */
+        @media (max-width: 650px) {
+            
+            .main-content-wrapper {
+                padding: 0 10px;
+            }
+
+            .modal-content {
+                /* Margin dihilangkan */
+                width: calc(100% - 20px); 
+                max-width: none;
+                padding: 15px; 
+                box-sizing: border-box; 
+            }
+            
+            .modal-header {
+                align-items: center; 
+            }
+
+            .modal-header h2 {
+                font-size: 1.4em;
+                word-break: break-word; 
+            }
+            .modal-header .flag-img {
+                margin-bottom: 0;
+            }
+
+            .modal-detail-item {
+                 display: flex;
+                 align-items: baseline; 
+                 justify-content: space-between; 
+                 font-size: 1em;
+            }
+            
+            .modal-detail-item > span:first-child { 
+                flex-shrink: 0;
+                margin-right: 5px;
+            }
+
+            .modal-detail-item > span:last-child {
+                text-align: left;
+                flex-grow: 1; 
+                word-break: break-all; 
+            }
+            
+            .modal-detail-item .currency-symbol {
+                word-break: normal;
+            }
+        }
+    </style>
+</head>
+<body>
+    
+    <div class="header">
+        <div class="main-content-wrapper">
+            <!-- <h1>Country Data Explorer</h1> -->
+            <input type="text" id="search-input" placeholder="Search by Name, Capital, or Code..." disabled>
+        </div>
+    </div>
+
+    <div class="main-content-wrapper"> 
+        <div class="card-view" id="country-list">
+            <p class="loading-indicator">Memuat data...</p>
+        </div>
+    </div>
+
+    <div id="country-modal" class="modal">
+        <div class="modal-content">
+            <span class="close-btn">&times;</span>
+            <div id="modal-details">
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const countryListContainer = document.getElementById('country-list');
+        const searchInput = document.getElementById('search-input');
+        const modal = document.getElementById('country-modal');
+        const modalDetails = document.getElementById('modal-details');
+        const closeModalBtn = document.querySelector('.close-btn');
+        let allCountries = []; 
+
+        // Endpoint API restcountries.com
+        const API_ENDPOINT = 'https://restcountries.com/v3.1/all?fields=name,flags,capital,idd,currencies,cca2,population,region,languages,timezones';
+
+        function processCurrency(currencies) {
+            if (!currencies || Object.keys(currencies).length === 0) {
+                return { symbol: '', name: 'N/A' };
+            }
+            const currencyCode = Object.keys(currencies)[0];
+            const currencyDetail = currencies[currencyCode];
+            const symbol = currencyDetail && currencyDetail.symbol ? currencyDetail.symbol : '';
+            const name = currencyDetail && currencyDetail.name ? currencyDetail.name : 'N/A';
+            return { symbol: symbol, name: `${name} (${currencyCode})` };
+        }
+        
+        function processPhonePrefix(idd) {
+            if (!idd || !idd.root) {
+                return 'N/A';
+            }
+            return idd.root + (idd.suffixes && idd.suffixes.length > 0 ? idd.suffixes[0] : '');
+        }
+
+        function processLanguages(languages) {
+            if (!languages) return 'N/A';
+            return Object.values(languages).join(', ');
+        }
+        
+        function createCountryCard(country) {
+            const currency = processCurrency(country.currencies);
+            const phonePrefix = processPhonePrefix(country.idd);
+            const commonName = country.name && country.name.common ? country.name.common : 'Unknown Country';
+            const code = country.cca2 || 'N/A';
+            const capital = country.capital && country.capital.length > 0 ? country.capital[0] : 'N/A';
+            const flagUrl = country.flags && country.flags.svg ? country.flags.svg : 'https://flagcdn.com/unknown.svg';
+
+            const iconStyle = "font-size: 1.1em; margin-right: 8px; width: 20px; display: inline-block;";
+
+            return `
+                <div class="card" data-cca2="${code}">
+                    <div class="card-header">
+                        <img src="${flagUrl}" alt="Flag of ${commonName}" class="flag-img" loading="lazy">
+                        <span class="country-name">${commonName}</span>
+                        <span class="country-code">(${code})</span>
+                    </div>
+                    <div class="card-body">
+                        <div class="detail-item">
+                            <span style="${iconStyle}" title="Capital">🏠</span> ${capital}
+                        </div>
+                        <div class="detail-item">
+                            <span style="${iconStyle}" title="Phone Prefix">📞</span> ${phonePrefix}
+                        </div>
+                        <div class="detail-item">
+                            <span style="${iconStyle}" title="Currency">💰</span> 
+                            <span class="currency-symbol">${currency.symbol}</span> ${currency.name}
+                        </div>
+                    </div>
+                </div>
+            `;
+        }
+
+        function renderCountries(data) {
+            if (data.length === 0) {
+                countryListContainer.innerHTML = '<p style="text-align: center; grid-column: 1 / -1; color: #777;">No countries found.</p>';
+                return;
+            }
+            
+            let allCardsHTML = data.map(createCountryCard).join('');
+            countryListContainer.innerHTML = allCardsHTML;
+
+            document.querySelectorAll('.card').forEach(card => {
+                card.addEventListener('click', () => {
+                    const cca2 = card.getAttribute('data-cca2');
+                    showCountryDetails(cca2);
+                });
+            });
+        }
+
+        function showCountryDetails(cca2) {
+            const country = allCountries.find(c => c.cca2 === cca2);
+            
+            if (!country) return;
+
+            const currency = processCurrency(country.currencies);
+            const phonePrefix = processPhonePrefix(country.idd);
+            const languages = processLanguages(country.languages);
+            
+            const modalIconStyle = "font-weight: bold; margin-right: 8px;"; 
+
+            const content = `
+                <div class="modal-header">
+                    <img src="${country.flags.svg}" alt="Flag of ${country.name.common}" class="flag-img">
+                    <h2>${country.name.common}</h2>
+                </div>
+                <div class="modal-detail-item">
+                    <span style="${modalIconStyle}">🆔</span> <span>${country.cca2 || 'N/A'}</span>
+                </div>
+                <div class="modal-detail-item">
+                    <span style="${modalIconStyle}">🏛️</span> <span>${country.capital && country.capital[0] ? country.capital[0] : 'N/A'}</span>
+                </div>
+                <div class="modal-detail-item">
+                    <span style="${modalIconStyle}">👥</span> <span>${country.population ? country.population.toLocaleString('en-US') : 'N/A'} people</span>
+                </div>
+                <div class="modal-detail-item">
+                    <span style="${modalIconStyle}">🌍</span> <span>${country.region || 'N/A'}</span>
+                </div>
+                <div class="modal-detail-item">
+                    <span style="${modalIconStyle}">🗣️</span> <span>${languages}</span>
+                </div>
+                <div class="modal-detail-item">
+                    <span style="${modalIconStyle}">📞</span> <span>${phonePrefix}</span>
+                </div>
+                <div class="modal-detail-item">
+                    <span style="${modalIconStyle}">💰</span> <span class="currency-symbol">${currency.symbol}</span><span>${currency.name}</span>
+                </div>
+                <div class="modal-detail-item">
+                    <span style="${modalIconStyle}">⏱️</span> <span>${country.timezones ? country.timezones.join(', ') : 'N/A'}</span>
+                </div>
+            `;
+
+            modalDetails.innerHTML = content;
+            modal.style.display = 'flex';
+        }
+        
+        closeModalBtn.onclick = function() {
+            modal.style.display = 'none';
+        }
+
+        window.onclick = function(event) {
+            if (event.target == modal) {
+                modal.style.display = 'none';
+            }
+        }
+
+        function handleSearch(event) {
+            const searchTerm = event.target.value.toLowerCase();
+            
+            const filteredData = allCountries.filter(country => {
+                const commonName = country.name.common.toLowerCase();
+                const officialName = country.name.official.toLowerCase();
+                const capitalName = country.capital && country.capital.length > 0 ? country.capital[0].toLowerCase() : '';
+                const code = country.cca2.toLowerCase();
+                
+                return commonName.includes(searchTerm) ||
+                       officialName.includes(searchTerm) ||
+                       capitalName.includes(searchTerm) ||
+                       code.includes(searchTerm);
+            });
+            
+            renderCountries(filteredData);
+        }
+
+        async function loadAndInitialize() {
+            try {
+                countryListContainer.innerHTML = '<p class="loading-indicator">Loading data from API...</p>';
+
+                const response = await fetch(API_ENDPOINT);
+
+                // Load from local file
+                // const response = await fetch('countries.json');
+                
+                if (!response.ok) {
+                    throw new Error(`HTTP error! Status: ${response.status}. API might be down.`);
+                }
+                
+                allCountries = await response.json(); 
+                allCountries.sort((a, b) => a.name.common.localeCompare(b.name.common));
+
+                searchInput.placeholder = 'Search by Name, Capital, or Code...';
+                searchInput.addEventListener('keyup', handleSearch);
+                searchInput.disabled = false;
+                
+                renderCountries(allCountries);
+                
+            } catch (error) {
+                console.error("Failed to load data:", error);
+                countryListContainer.innerHTML = `
+                    <p class="loading-indicator" style="color: red;">
+                        ❌ Failed to load data. ${error.message}<br>
+                        Please ensure you run this file via a **Local Server**.
+                    </p>`;
+            }
+        }
+
+        document.addEventListener('DOMContentLoaded', loadAndInitialize);
+    </script>
+</body>
+</html>
