@@ -1,5 +1,10 @@
 # 🌍 Country Data Explorer (Vanilla JS)
 
+<p align="center">
+  <img src="output/main_page.png" alt="Alt text for your image" width="400"/>
+  <img src="output/modal_popup.png" alt="Alt text for your image" width="400"/>
+</p>
+
 A simple, responsive web application built using **Vanilla HTML, CSS, and JavaScript** to fetch, display, and filter comprehensive data for all countries worldwide.
 
 This project is highly optimized for performance and responsive design, featuring sticky search bar functionality and a perfectly centered modal for detailed views.
